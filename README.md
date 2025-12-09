@@ -11,8 +11,8 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=350 />
-    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=350 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=400 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=400 />
   </p>
 </div>
 
@@ -40,7 +40,7 @@ rofi
 <h3><\BROWSER SETUP></h3>
 <h4>I use <code><a href="https://brave.com/" target="_blank">Brave Browser</a></code> + <code><a href="https://github.com/TheMY3/dawn-startpage/" target="_blank">dawn</a></code> startpage.</h4>
 
-[Here is the setup link]("https://github.com/TheMY3/dawn-startpage/blob/master/docs/chrome-extension-setup.md")
+<p>Here is the <a href="https://github.com/TheMY3/dawn-startpage/blob/master/docs/chrome-extension-setup.md">setup link</a></p>
 
 <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/asset/animated-line.gif" />
 

@@ -14,10 +14,6 @@
     <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=300 />
     <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=300 />
   </p>
-
-   <p align="center"> 
-    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic3.png" width=490 />
-  </p>
 </div>
 
 ### List of Packages

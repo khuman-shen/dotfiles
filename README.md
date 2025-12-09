@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/animated-line.gif" /> 
-<h3><\HYPRLAND DOTFILES\></h3> 
+<img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/asset/animated-line.gif" /> 
+<h3><\BSPWM DOTFILES\></h3> 
 
-<img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/animated-line.gif" />
+<img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/asset/animated-line.gif" />
 
 </div>
 
@@ -11,41 +11,41 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/Screenshots/pic1.png" width=300 />
-    <img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/Screenshots/pic2.png" width=300 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=300 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=300 />
   </p>
 
    <p align="center"> 
-    <img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/Screenshots/pic3.png" width=490 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic3.png" width=490 />
   </p>
 </div>
 
 ### List of Packages
 
 
-<img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/animated-line.gif" />
+<img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/animated-line.gif" />
 
 ```pkg
 zsh
 cava
+neovim
+bspwm
+sxhkd
+nnn
+feh
+brave
+dunst
 fastfetch
 kitty
-hyprland
-jetbrains mono nerd font
-mpd
-mpv
-ncmpcpp
-ncspot
-neovim
+picom
+polybar
 rofi
-swappy
-swaync
-termusic
-wallust
-waybar
-wlogout
 ```    
+<h3><\BROWSER SETUP></h3>
+<h4>I use <code><a href="https://brave.com/" target="_blank">Brave Browser</a></code> + <code><a href="https://github.com/TheMY3/dawn-startpage/" target="_blank">dawn</a></code> startpage.</h4>
 
-<img src="https://github.com/khuman-shen/dotfiles/blob/hyprland/animated-line.gif" />
+[Here is the setup link]("https://github.com/TheMY3/dawn-startpage/blob/master/docs/chrome-extension-setup.md")
+
+<img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/asset/animated-line.gif" />
 
 

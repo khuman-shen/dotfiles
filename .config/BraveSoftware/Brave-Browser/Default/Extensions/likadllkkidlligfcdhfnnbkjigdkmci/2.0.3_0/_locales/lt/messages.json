@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Tiesioginis fotoaparato nuskaitymas ir QR kodas"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Sukurkite trumpąsias nuorodas ir „Analytics“."
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Sukurti ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Nepavyko įjungti kontekstinio meniu, bandykite dar kartą"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Spustelėkite čia\u003C/a>, kad įgalintumėte kontekstinį meniu, kad būtų lengva iššifruoti QR vaizdus"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Kontekstinis meniu sėkmingai įjungtas."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Iššifruokite pasirinktą QR vaizdą\u003C/li>\u003Cli>✓ Generuokite QR tekstą ir nuorodas\u003C/li>\u003Cli>✓ Iškoduokite vietinį vaizdo failą\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Suteikite reikiamus leidimus, kad įgalintumėte kontekstinį meniu"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Norint įjungti ir paleisti dekodavimo scenarijų, reikalingi būtini leidimai"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Įkelkite QR nuotrauką ir iššifruokite"
+   },
+   "description": {
+      "description": "",
+      "message": "Chromo plėtinys, skirtas QR kodui iš tinklalapio nuskaityti"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Jis skirtas automatiškai aptikti QR kodus tinklalapiuose ir rasti jo nuorodas bei duomenų formatus. Sužinokite daugiau adresu \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Kas yra šis plėtinys?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Pagal numatytuosius nustatymus, bet galite jį konfigūruoti daugiau (aukščiau pateiktame skyriuje)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Kiek QR kodų jis gali aptikti?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Jis teikia pagrindines paslaugas, skirtas aptikti QR kodus, taip pat kurti / valdyti naujus QR kodus, naudojant analizės paslaugas."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Kas yra svetainė ir kodėl ji čia naudojama?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "absoliučiai! \u003Ca>\u003C/a> yra priglobta saugioje debesų platformoje ir sukurta siekiant apsaugoti visas paslaugas su 100 % garantija."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Ar šie nauji QR kodai iš qrcd.org yra saugūs?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Taip! Labai greitai planuojame išleisti kitą versiją su daugiau nei 20 puikių naujų funkcijų."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Ar galime redaguoti QR kodus arba sukurti išplėstinius QR kodų tipus?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Jis gali būti naudojamas įvairiai rinkodaros ir reklaminei veiklai, kad vartotojai galėtų greitai nuskaityti QR kodus ir gauti tikslinį turinį. Sužinokite daugiau adresu \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Kaip galiu naudoti šiuos QR kodus ar jo privalumus?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Mes neklausiame, neskaitome, nesaugome ir netvarkome jokios asmeninės informacijos. Sužinokite daugiau adresu \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. O kaip su privatumu?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "QR kodo skaitytuvas"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Atšaukti"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Netrukus"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "kontaktas"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Kopijuoti"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Sukurk naują"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Sukurti QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Įgalinti kontekstinį meniu"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "parsisiųsti"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamiškas"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "paštas"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Įgalinti"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Renginys"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "DUK"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Formatas"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Generolas"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Sukurti QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Geografinė vieta"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Aukštas"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Istorija"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Namai"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Nuoroda"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Atpažinti vietinį vaizdą"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Žemas"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Vidutinis"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Pranešimas"
+   },
+   "labelName": {
+      "description": "",
+      "message": "vardas"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Kiti"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Telefono Nr"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Peržiūra"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Privatumas"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "QR tipai"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR skaitytuvas"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Atpažinti QR kodą"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Pašalinti"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Nustatyti iš naujo"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "trumpoji žinutė"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Sutaupyti"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Išsaugota"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Pasirinkite"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Nustatymai"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Pasidalinkite"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Tekstas"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Į"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Įrankiai"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Tipas"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Būsimos funkcijos"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Naudodami kontekstinį meniu,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "bevielis internetas"
+   },
+   "name": {
+      "description": "",
+      "message": "QR kodo skaitytuvas"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Tai yra neprisijungus pasiekiamas QR kodas. Sukurkite QR su trumpu URL, kad sinchronizuotumėte QR adresus debesyje – netrukus!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Aukšta – 30 % klaida"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Žemas – 5 % klaida"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Vidutinė – 15 % klaida"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kvartilis – 25 % klaida"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Automatiškai išsaugokite nuskaitytą QR į istoriją"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Automatiškai kurkite trumpas nuorodas naudodami QR kodą"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Atlikite daugiau naudodami dinaminius QR"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Netrukus! Dinaminis QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Jei išjungta, nebus kuriami trumpi QR kodo URL.\u003Cb> Labai rekomenduojama šios parinkties neleisti dėl \u003Ca>saugos ir našumo priežasčių\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Pastaba: QR kodai be trumpo URL nebus sinchronizuojami su debesimi – netrukus"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dinaminis QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Dinaminės QR parinktys"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Įgalinti tinkintas nuorodas"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Įgalinkite dinaminę QR analizę, pvz., nuskaitymo skaičių, vietą ir kt"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Įgalinti galiojimo datą"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Įgalinti kelių QR dekodavimą"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Kai įjungta, užfiksuotas lango vaizdas bus automatiškai įkeltas į serverį, kad būtų galima iššifruoti kelis QR."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Įgalinti dekodavimą vienu metu"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Kai neprisijungus nerasta jokių QR, užfiksuotas lango vaizdas bus įkeltas į serverį, kad būtų galima iššifruoti."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Įjungti apsaugą slaptažodžiu"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Maksimalus elementų skaičius, kurį reikia išsaugoti istorijoje"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Istorijos riba"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Daugiau QR tipų!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Fono spalva"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Spalva"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Klaidų taisymas"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR formatas"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR rėmelis"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Vaizdo formatas"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Vaizdo formatas"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logotipas"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Dydis"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QR stilius"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maksimalus QR rodymas iki 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Max QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Jei įjungta pagal numatytuosius nustatymus, rodomas išanalizuotas žinomų tipų turinys (pateikiama LINK, SMS, el. paštas, telefono numeris, GIO), kitu atveju neapdorotas tekstas."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Rodyti žinomų tipų analizuotą turinį"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Gaukite daugiau parinkčių prisijungę"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Sinchronizavimo istorija"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Marža"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Jei domina konkretus QR tipas, susisiekite su \u003Ca>palaikymo komanda\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Netrukus! Žiūrėti statistiką"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Spustelėkite naują QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Sėkmingai nukopijuotas į mainų sritį"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Sukurtas QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Kuriamas QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operacija nepavyko, bandykite dar kartą"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Jei norite išanalizuoti konkretų QR tipo tipą, susisiekite su \u003Ca>palaikymo tarnyba\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Naujas QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Pastaba: sukurkite naują QR kodą naudodami analizę (netrukus)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR nerasta."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Vyksta internetinis dekodavimas, palaukite."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Atidaryti nuorodą"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Reikalingas"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Nuskaitytas QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Trumpa nuoroda"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Rodyti išanalizuoti"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Nežinoma"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Keiskite istorijos apribojimą \u003Ca>parinktyse\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Keiskite istorijos apribojimą \u003Ca>parinktyse\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Sukurtas QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Pabandykite įgalinti internetinį dekodavimą \u003Ca>parinktyse\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Pabandykite įgalinti internetinį dekodavimą \u003Ca>parinktyse\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Nuskaitytas QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Naudotojų paskyros\u003C/li>\u003Cli>Analytics (10 ir daugiau) ir ataskaitos\u003C/li>\u003Cli>Tinkintos trumposios nuorodos ir QR kodai\u003C/li>\u003Cli>QR kodas, 8 ir daugiau naujų tipų\u003C/li>\u003C li>Sauga\u003C/li>\u003Cli>10 ir daugiau papildomų funkcijų\u003C/li>"
+   }
+}

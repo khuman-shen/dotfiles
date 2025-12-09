@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title data-localize="userAgentSwitcherandManagerOptions">Options Page :: User-Agent Switcher and Manager</title>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <div class="mode">
+    <input type="radio" name="mode" value="blacklist" id="mode-blacklist">
+    <label for="mode-blacklist"><h1><a data-href="faq14" data-localize="blackListMode" target="_blank">Black-List Mode</a></h1></label>
+    <span id="toggle-blacklist-desc" data-localize="description">Description</span>
+  </div>
+  <p for="toggle-blacklist-desc" class="note hidden" data-localize="blackListModeDescription">Apply the custom user-agent string to all tabs except the tabs with the following top-level hostnames (comma-separated list of hostnames). Note that even if a window-based user-agent string is set from the toolbar popup, your browser's default user-agent string is used.</p>
+  <textarea id="blacklist" rows="5" placeholder="e.g.: www.google.com, www.bing.com"></textarea>
+
+  <div class="mode">
+    <input type="radio" name="mode" value="whitelist" id="mode-whitelist">
+    <label for="mode-whitelist"><h1 data-localize="whiteListMode">White-List Mode</h1></label>
+    <span id="toggle-whitelist-desc" data-localize="description">Description</span>
+  </div>
+  <p for="toggle-whitelist-desc" class="note hidden" data-localize="whiteListModeDescription">Only apply the custom user-agent string to the tabs with following top-level hostnames. Note that if a window-based user-agent string is set from the toolbar popup, this user-agent will overwrite the global one.</p>
+  <textarea id="whitelist" rows="5" placeholder="e.g.: www.google.com, www.bing.com"></textarea>
+
+  <div class="mode">
+    <input type="radio" name="mode" value="custom" id="mode-custom">
+    <label for="mode-custom"><h1 data-localize="customMode">Custom Mode</h1></label>
+    <span id="toggle-custom-desc" data-localize="description">Description</span>
+  </div>
+  <p for="toggle-custom-desc" class="note hidden"><span data-localize="customModeDescription">Resolve the user-agent string from a JSON object, if available. Otherwise, use the default user-agent string or the one specified by the user through the popup interface. Use "*" as the hostname to match all domains. If an array of user-agent strings is provided instead of a fixed string, you can randomly select from these options, with the selection resetting after the browser session ends. If a key is a comma-separated list of hostnames and the value is an array, all specified hostnames will share the same user-agent string for the duration of the browser session.</span> <a href="#" id="sample" data-localize="insertSample">Insert a sample</a>.</p>
+  <textarea id="custom" rows="8" wrap="off"></textarea>
+
+  <div class="checked">
+    <input type="checkbox" id="userAgentData">
+    <label for="userAgentData" data-localize="userAgentData">Expose "navigator.userAgentData" object on Chromium user-agents</label>
+  </div>
+
+  <div class="mode-2">
+    <h1 data-localize="disableSpoofing">Disable Spoofing</h1>
+    <span id="toggle-protected-desc" data-localize="description">Description</span>
+  </div>
+  <p for="toggle-protected-desc" class="note hidden" data-localize="disableSpoofingDescription">A comma-separated list of keywords that the extension should not spoof the user-agent header. Use this list to protect URLs that contain these protected keywords. Each keyword need to be at least 5 char long.</p>
+  <textarea id="protected" rows="5" wrap="off"></textarea>
+
+  <h1 data-localize="popularBrowsers">Popular Browsers on the Popup Interface</h1>
+  <div class="mode-3">
+    <input type="text" id="popular-browsers">
+    <select id="popular-browsers-selector">
+      <option value="" selected>-</option>
+    </select>
+  </div>
+  <h1 data-localize="popularOSs">Popular Operating Systems on the Popup Interface</h1>
+  <div class="mode-3">
+    <input type="text" id="popular-oss">
+    <select id="popular-oss-selector">
+      <option value="" selected>-</option>
+    </select>
+  </div>
+
+  <div class="mode-2">
+    <h1 data-localize="customUserAgentParsing">Custom User-Agent Parsing</h1>
+    <span id="toggle-parser-desc" data-localize="description">Description</span>
+  </div>
+  <p for="toggle-parser-desc" class="note hidden"><span data-localize="customUserAgentParsingDescription">A JSON object to bypass the internal user-agent string parsing method. The keys are the actual user-agent strings and the value of each key is an object of the keys that need to be set for the "navigator" object. You can use the "[delete]" keyword if you want a key in the "navigator" object to get deleted.</span> <a href="#" id="sample-2" data-localize="insertSample">Insert a sample</a>.</p>
+  <textarea id="parser" rows="12" wrap="off"></textarea>
+  <h1>Custom Styling</h1>
+  <p>Use this section to apply user styling rules to the popup interface</p>
+  <textarea id="user-styling" rows="8" wrap="off" placeholder="e.g.:
+
+body {
+  color: red;
+}"></textarea>
+
+  <div class="admin" data-localize="managedStorage">This extension supports managed storage. All the preferences can be pre-configured by the domain administrator</div>
+
+  <div class="mode-3">
+    <h1><a data-href="faq20" target="_blank" data-localize="remoteAddress">Remote configuration server</a></h1>
+    <input type="text" id="remote-address" placeholder="https://.../configuration.json">
+    <button id="update" data-localize="updateFromRemote" disabled>Update from Remote Server</button>
+  </div>
+
+  <p id="backup">
+    <button id="import" data-localize="importSettings">Import Settings</button>
+    <button data-localized-title="exportSettingsTitle" title="To generate minified version, press Shift key while pressing this button" id="export" data-localize="exportSettings">Export Settings</button>
+  </p>
+  <div id="tools">
+    <button id="help" data-localize="help">FAQs Page (Help)</button>
+    <button id="donate" data-localize="donate">Support Development</button>
+    <button id="reset" data-localize="reset">Reset</button>
+    <button id="save" data-localize="save">Save Options</button>
+    <span id="status"></span>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

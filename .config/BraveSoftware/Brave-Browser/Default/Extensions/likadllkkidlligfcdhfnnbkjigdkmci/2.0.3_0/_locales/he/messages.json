@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "סריקת מצלמה חיה וקוד QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "צור קישורים קצרים ואנליטיקס"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "צור ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "הפעלת תפריט ההקשר נכשלה, אנא נסה שוב"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>לחץ כאן\u003C/a> כדי להפעיל תפריט הקשר לפענוח קל של תמונות QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "תפריט ההקשר הופעל בהצלחה."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ פענוח בחר תמונה עבור QR\u003C/li>\u003Cli>✓ צור QR עבור טקסט וקישורים\u003C/li>\u003Cli>✓ פענוח קובץ תמונה מקומי\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "אנא הענק הרשאות נדרשות כדי להפעיל את תפריט ההקשר"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "זה דורש הרשאות נחוצות כדי להפעיל ולהפעיל סקריפט פענוח"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "העלה תמונת QR ופענוח"
+   },
+   "description": {
+      "description": "",
+      "message": "תוסף כרום לקריאת קוד QR מדף אינטרנט"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "זה מיועד לזיהוי אוטומטי של קודי QR בדפי האינטרנט, ולאחר מכן למצוא את הקישורים ותבניות הנתונים שלו. למידע נוסף בכתובת \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. מהי ההרחבה הזו?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "כברירת מחדל, אבל אתה יכול להגדיר אותו לעוד (בסעיף לעיל)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. כמה קודי QR הוא יכול לזהות?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "הוא מספק את שירותי הליבה לאיתור קודי QR וגם ליצור/לנהל קודי QR חדשים, עם שירותי ניתוח."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. מהו אתר ולמה הוא משמש כאן?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "בהחלט! ה-\u003Ca>\u003C/a> מתארח בפלטפורמת הענן המאובטחת ונועד להגן על כל השירותים עם אחריות של 100%."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. האם קודי QR חדשים אלה מ-qrcd.org בטוחים?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "כן! אנו מתכננים להשיק את הגרסה הבאה בקרוב מאוד עם 20+ תכונות חדשות ומעולות."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. האם נוכל לערוך קודי QR או ליצור סוגי קודי QR מתקדמים?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "זה יכול לשמש לפעילויות שיווק וקידום מכירות שונות כדי לאפשר למשתמשים לסרוק במהירות קודי QR ולקבל את תוכן היעד. למידע נוסף ב-\u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. כיצד אוכל להשתמש בקודי QR אלו או ביתרונות של זה?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "אנחנו לא שואלים, קוראים, מאחסנים או מעבדים כל סוג של פרטים אישיים. למידע נוסף ב-\u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. מה לגבי פרטיות?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "קורא קוד QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "לְבַטֵל"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "בקרוב"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "איש קשר"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "עותק"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "צור חדש"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "צור QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "אפשר תפריט הקשר"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "הורד"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "דִינָמִי"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "אימייל"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "לְאַפשֵׁר"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "מִקרֶה"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "שאלות נפוצות"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "פוּרמָט"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "כללי"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "צור QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "מיקום גיאוגרפי"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "גָבוֹהַ"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "הִיסטוֹרִיָה"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "בית"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "קישור"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "זיהוי תמונה מקומית"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "נָמוּך"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "בינוני"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "הוֹדָעָה"
+   },
+   "labelName": {
+      "description": "",
+      "message": "שֵׁם"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "אחרים"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "בטלפון"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "תצוגה מקדימה"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "פְּרָטִיוּת"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "סוגי QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "קורא QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "זיהוי קוד QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "לְהַסִיר"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "אִתחוּל"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "סמס"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "להציל"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "שמור"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "בחר"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "הגדרות"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "שתף אותו"
+   },
+   "labelText": {
+      "description": "",
+      "message": "טֶקסט"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "ל"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "כלים"
+   },
+   "labelType": {
+      "description": "",
+      "message": "סוּג"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "כתובת אתר"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "תכונות קרובות"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "כתובת אתר"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "באמצעות תפריט ההקשר,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "וויי - פיי"
+   },
+   "name": {
+      "description": "",
+      "message": "קורא קוד QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "זהו QR לא מקוון, צור QR עם כתובת אתר קצרה כדי לסנכרן QRs לענן - בקרוב!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "גבוה - שגיאה של 30%."
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "נמוך - שגיאה של 5%."
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "בינוני - שגיאה של 15%."
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "רבעון - שגיאה של 25%."
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "שמירה אוטומטית של QR סרוק בהיסטוריה"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "צור אוטומטית קישורים קצרים עם קוד QR"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "עשה יותר עם QR דינמיים"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "בקרוב! QR דינמי"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "אם מושבת, לא ייווצרו כתובות אתרים קצרות עבור קוד ה-QR.\u003Cb> מומלץ מאוד לא להשבית אפשרות זו מ\u003Ca>מטעמי אבטחה וביצועים\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "הערה: QRs ללא כתובת URL קצרה לא יסונכרנו לענן - בקרוב"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "QR דינמי"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "אפשרויות QR דינמיות"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "אפשר קישורים מותאמים אישית"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "אפשר ניתוח QR דינמי כמו ספירת סריקות, מיקום וכו'"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "אפשר תאריך תפוגה"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "אפשר פענוח QR מרובה"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "כאשר מופעל, תמונת החלון שנלכדה תועלה אוטומטית לשרת כדי לפענח מספר QRs."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "אפשר פענוח אונליין"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "כאשר לא נמצאו QRs במצב לא מקוון, תמונת חלון שנלכדה תועלה לשרת כדי לפענח."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "הפעל הגנת סיסמה"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "מקסימום פריטים שיש לשמור בהיסטוריה"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "מגבלת היסטוריה"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "עוד סוגי QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "צבע רקע"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "צֶבַע"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "תיקון שגיאות"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "פורמט QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "מסגרת QR"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "פורמט תמונה"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "פורמט תמונה"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "סֵמֶל"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "גודל"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "סגנון QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "מקסימום QRs להצגה של עד 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "מקסימום QRs"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "אם מופעלת כברירת מחדל, האפשרות מציגה תוכן ממנותח עבור סוגים ידועים (קישור, SMS, דואר אלקטרוני, מספר טלפון, GIO נתמכים), אחרת טקסט גולמי."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "הצג תוכן מנותח עבור סוגים ידועים"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "קבל אפשרויות נוספות על ידי כניסה"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "סנכרון היסטורי"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "שולים"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "מעוניין בסוג QR ספציפי, צור קשר עם \u003Ca>תמיכה\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "בקרוב! הצג נתונים סטטיסטיים"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "לחץ על QR חדש"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "הועתק בהצלחה ללוח"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "נוצר QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "יצירת QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "הפעולה נכשלה, אנא נסה שוב"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "מעוניין לנתח סוג QR ספציפי, צור קשר עם \u003Ca>תמיכה\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "QR חדש"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "הערה: צור קוד QR חדש משלך עם ניתוח (בקרוב)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "לא נמצא QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "פענוח מקוון מתבצע, אנא המתן.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "פתח קישור"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "נדרש"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "QR סרוק"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "קישור קצר"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "הצג מנותח"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "לא ידוע"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "שנה את מגבלת ההיסטוריה ב\u003Ca>אפשרויות\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "שנה את מגבלת ההיסטוריה ב\u003Ca>אפשרויות\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "נוצר QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "נסה להפעיל פענוח מקוון ב\u003Ca>אפשרויות\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "נסה להפעיל פענוח מקוון ב\u003Ca>אפשרויות\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "QR סרוק"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>חשבונות משתמש\u003C/li>\u003Cli>Analytics (10+) ודוחות\u003C/li>\u003Cli>קישורים קצרים וקודי QR מותאמים אישית\u003C/li>\u003Cli>קוד QR, 8+ סוגים חדשים\u003C/li>\u003C li>אבטחה\u003C/li>\u003Cli>10+ תכונות מתקדמות\u003C/li>"
+   }
+}

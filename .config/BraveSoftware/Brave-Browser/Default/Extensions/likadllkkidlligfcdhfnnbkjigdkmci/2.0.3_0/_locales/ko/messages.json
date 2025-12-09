@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "라이브 카메라 스캔 및 QR 코드"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Shortlink 및 분석 만들기"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "ShortUrl QR 생성"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "컨텍스트 메뉴를 활성화하지 못했습니다. 다시 시도하십시오."
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "QR 이미지를 쉽게 디코딩할 수 있도록 컨텍스트 메뉴를 활성화하려면 \u003Ca>여기를 클릭\u003C/a>하세요."
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "상황에 맞는 메뉴가 성공적으로 활성화되었습니다."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ QR용으로 선택한 이미지 디코딩\u003C/li>\u003Cli>✓ 텍스트 및 링크용 QR 생성\u003C/li>\u003Cli>✓ 로컬 이미지 파일 디코딩\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "컨텍스트 메뉴를 활성화하려면 필요한 권한을 부여하세요."
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "디코딩 스크립트를 활성화하고 실행하려면 필요한 권한이 필요합니다."
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "QR 사진 업로드 및 디코딩"
+   },
+   "description": {
+      "description": "",
+      "message": "웹페이지에서 QR 코드를 읽기 위한 크롬 확장 프로그램"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "웹 페이지에서 QR 코드를 자동으로 감지한 다음 해당 링크 및 데이터 형식을 찾기 위한 것입니다. \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>에서 자세히 알아보세요."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. 이 확장은 무엇입니까?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "기본적으로 하나이지만 더 많은 항목에 대해 구성할 수 있습니다(위 섹션에서)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. 얼마나 많은 QR 코드를 감지할 수 있습니까?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "분석 서비스와 함께 QR 코드를 감지하고 새로운 QR 코드를 생성/관리하는 핵심 서비스를 제공합니다."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. 사이트란 무엇이며 여기서 사용하는 이유는 무엇입니까?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "전적으로! \u003Ca>\u003C/a>는 안전한 클라우드 플랫폼에서 호스팅되며 모든 서비스를 100% 보장하도록 설계되었습니다."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. qrcd.org의 새로운 QR 코드는 안전한가요?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "예! 20개 이상의 훌륭한 새 기능이 포함된 다음 버전을 곧 출시할 계획입니다."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. QR 코드를 편집하거나 고급 QR 코드 유형을 만들 수 있습니까?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "QR 코드를 빠르게 스캔하여 대상 콘텐츠를 얻을 수 있도록 다양한 마케팅 및 판촉 활동에 사용할 수 있습니다. \u003Ca>\u003C/a>에서 자세히 알아보세요."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. 이 QR 코드를 어떻게 사용하거나 혜택을 받을 수 있나요?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "우리는 어떤 종류의 개인 정보도 묻거나 읽거나 저장하거나 처리하지 않습니다. \u003Ca>\u003C/a>에서 자세히 알아보기"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. 프라이버시는 어떻게 됩니까?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "QR 코드 리더"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "취소"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "곧 출시"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "연락하다"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "복사"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "새로 만들기"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "QR 만들기"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "상황에 맞는 메뉴 활성화"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "다운로드"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "동적"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "이메일"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "할 수 있게 하다"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "이벤트"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "자주하는 질문"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "체재"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "일반적인"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "QR 생성"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "지리적 위치"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "높은"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "역사"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "집"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "링크"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "로컬 이미지 인식"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "낮은"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "중간"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "메시지"
+   },
+   "labelName": {
+      "description": "",
+      "message": "이름"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "기타"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "전화 번호"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "시사"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "은둔"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "QR 유형"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR 리더"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "QR 코드 인식"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "제거하다"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "초기화"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "구하다"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "저장됨"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "선택하다"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "설정"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "공유하세요"
+   },
+   "labelText": {
+      "description": "",
+      "message": "텍스트"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "에게"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "도구"
+   },
+   "labelType": {
+      "description": "",
+      "message": "유형"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "예정된 기능"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "상황에 맞는 메뉴를 사용하여"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "와이파이"
+   },
+   "name": {
+      "description": "",
+      "message": "QR 코드 리더"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "이것은 오프라인 QR입니다. 짧은 URL로 QR을 생성하여 QR을 클라우드에 동기화하세요. 곧 출시됩니다!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "높음 - 30% 오류"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "낮음 - 5% 오류"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "중간 - 15% 오류"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "사분위 - 25% 오류"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "스캔한 QR을 기록에 자동 저장"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "QR 코드로 짧은 링크 자동 생성"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "동적 QR로 더 많은 작업 수행"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "곧! 동적 QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "비활성화하면 QR 코드에 대한 짧은 URL이 생성되지 않습니다.\u003Cb> \u003Ca>보안 및 성능상의 이유로\u003C/a> 이 옵션을 비활성화하지 않는 것이 좋습니다."
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "참고: 단축 URL이 없는 QR은 클라우드에 동기화되지 않습니다. - 출시 예정"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "동적 QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "동적 QR 옵션"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "맞춤 링크 활성화"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "스캔 횟수, 위치 등과 같은 동적 QR 분석 활성화"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "만료 날짜 활성화"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "다중 QR 디코딩 활성화"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "활성화되면 캡처된 창 이미지가 자동으로 서버에 업로드되어 여러 QR을 디코딩합니다."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "온라인 디코딩 활성화"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "오프라인에서 QR이 발견되지 않으면 캡처된 창 이미지가 서버에 업로드되어 디코딩됩니다."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "암호 보호 활성화"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "기록에 보관할 최대 항목"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "기록 제한"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "더 많은 QR 유형!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "배경색"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "색상"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "오류 수정"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR 형식"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR 프레임"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "이미지 형식"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "이미지 형식"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "심벌 마크"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "크기"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QR 스타일"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "최대 10개까지 표시할 최대 QR"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "최대 QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "기본적으로 활성화된 경우 옵션은 알려진 유형(링크, SMS, 전자 메일, 전화 번호, GIO가 지원됨)에 대해 구문 분석된 콘텐츠를 표시하고 그렇지 않은 경우 원시 텍스트를 표시합니다."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "알려진 유형에 대해 파싱된 콘텐츠 표시"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "로그인하여 더 많은 옵션 얻기"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "동기화 기록"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "여유"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "특정 QR 유형에 관심이 있으시면 \u003Ca>지원팀\u003C/a>에 문의하세요."
+   },
+   "statsText": {
+      "description": "",
+      "message": "곧! 통계 보기"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "새로운 QR을 클릭하십시오"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "클립보드에 성공적으로 복사되었습니다."
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "생성된 QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "QR 만들기"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "작업에 실패했습니다. 다시 시도해 주세요."
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "특정 QR 유형의 구문 분석에 관심이 있으시면 \u003Ca>지원팀\u003C/a>에 문의하세요."
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "새로운 QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "참고: 분석을 통해 나만의 새로운 QR 코드 생성(출시 예정)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR을 찾을 수 없습니다."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "온라인 디코딩이 진행 중입니다. 잠시만 기다려 주십시오."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "링크 열기"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "필수의"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "스캔한 QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "짧은 링크"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "구문 분석 표시"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "알려지지 않은"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "\u003Ca>옵션\u003C/a>에서 변경 내역 한도"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "\u003Ca>옵션\u003C/a>에서 변경 내역 한도"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "생성된 QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "\u003Ca>옵션\u003C/a>에서 온라인 디코딩을 활성화해 보십시오."
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "\u003Ca>옵션\u003C/a>에서 온라인 디코딩을 활성화해 보십시오."
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "스캔한 QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>사용자 계정\u003C/li>\u003Cli>분석(10개 이상) 및 보고서\u003C/li>\u003Cli>맞춤형 단축 링크 및 QR 코드\u003C/li>\u003Cli>QR 코드, 8개 이상의 새로운 유형\u003C/li>\u003C li>보안\u003C/li>\u003Cli>10개 이상의 고급 기능\u003C/li>"
+   }
+}

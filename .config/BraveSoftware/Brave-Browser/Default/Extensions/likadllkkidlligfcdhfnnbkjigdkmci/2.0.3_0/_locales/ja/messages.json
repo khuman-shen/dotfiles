@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "ライブカメラのスキャンとQRコード"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "ショートリンクと分析を作成する"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "ショート URL QR を作成する"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "コンテキスト メニューを有効にできませんでした。もう一度お試しください。"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>ここをクリック\u003C/a> すると、コンテキスト メニューが有効になり、QR 画像を簡単にデコードできます"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "コンテキスト メニューが正常に有効になりました。"
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ 選択した画像を QR 用にデコードする\u003C/li>\u003Cli>✓ テキストとリンクの QR を生成する\u003C/li>\u003Cli>✓ ローカル画像ファイルをデコードする\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "コンテキスト メニューを有効にするために必要な権限を付与してください"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "デコードスクリプトを有効にして実行するには必要な権限が必要です"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "QR写真をアップロードしてデコード"
+   },
+   "description": {
+      "description": "",
+      "message": "WebページからQRコードを読み取るためのChrome拡張機能"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "ウェブページ上の QR コードを自動的に検出し、そのリンクとデータ形式を検出します。詳細については、\u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a> をご覧ください。"
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. この拡張子は何ですか?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "デフォルトでは 1 つですが、(上のセクションで) より多くの値を設定できます。"
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. 何個の QR コードを検出できますか?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "QR コードを検出し、分析サービスとともに新しい QR コードを作成/管理するためのコア サービスを提供します。"
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. サイトとは何ですか? なぜここで使用されるのですか?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "絶対！ \u003Ca>\u003C/a> は安全なクラウド プラットフォームでホストされ、すべてのサービスを 100% 保証して保護するように設計されています。"
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. qrcd.org からのこれらの新しい QR コードは安全ですか?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "はい！ 20 以上の優れた新機能を備えた次のバージョンを間もなくリリースする予定です。"
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. QR コードを編集したり、高度な QR コード タイプを作成したりできますか?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "ユーザーが QR コードを簡単にスキャンして目的のコンテンツを取得できるように、さまざまなマーケティングやプロモーション活動に使用できます。詳細については、\u003Ca>\u003C/a> をご覧ください。"
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. これらの QR コードの使用方法、またはその利点を教えてください。"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "当社はいかなる種類の個人情報も尋ねたり、読んだり、保存したり、処理したりすることはありません。詳細については、\u003Ca>\u003C/a> をご覧ください。"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. プライバシーについてはどうですか?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "QRコードリーダー"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "キャンセル"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "近日公開"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "コンタクト"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "コピー"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "新しく作る"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "QRの作成"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "コンテキストメニューを有効にする"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "ダウンロード"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "動的"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "Eメール"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "有効"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "イベント"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "よくある質問"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "フォーマット"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "全般的"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "QRの生成"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "地理的位置"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "高い"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "歴史"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "家"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "リンク"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "ローカル画像を認識する"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "低い"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "中くらい"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "メッセージ"
+   },
+   "labelName": {
+      "description": "",
+      "message": "名前"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "その他"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "電話番号"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "プレビュー"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "プライバシー"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "QRの種類"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QRリーダー"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "QRコードを認識する"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "削除"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "リセット"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "保存"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "保存されました"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "選択する"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "設定"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "共有する"
+   },
+   "labelText": {
+      "description": "",
+      "message": "文章"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "に"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "ツール"
+   },
+   "labelType": {
+      "description": "",
+      "message": "タイプ"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "今後の機能"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "コンテキストメニューを使用して、"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wi-Fi"
+   },
+   "name": {
+      "description": "",
+      "message": "QRコードリーダー"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "これはオフライン QR です。QR をクラウドに同期するには、短い URL を含む QR を作成してください - 近日公開予定です。"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "高 - 30% エラー"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "低 - 5% エラー"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "中 - 15% のエラー"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "四分位 - 25% の誤差"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "スキャンしたQRを履歴に自動保存"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "QRコードを使った短いリンクを自動作成"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "動的 QR をさらに活用する"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "近日公開！ダイナミックQR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "無効にすると、QR コードの短縮 URL は作成されません。\u003Cb>\u003Ca>セキュリティとパフォーマンス上の理由\u003C/a>から、このオプションを無効にしないことを強くお勧めします。"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "注: 短縮 URL のない QR はクラウドに同期されません - 近日公開予定"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "ダイナミックQR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "動的 QR オプション"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "カスタムリンクを有効にする"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "スキャン数、位置などの動的な QR 分析を有効にする"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "有効期限を有効にする"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "複数の QR デコードを有効にする"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "有効にすると、キャプチャされたウィンドウ画像が自動的にサーバーにアップロードされ、複数の QR がデコードされます。"
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "オンラインデコードを有効にする"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "オフラインで QR が見つからない場合、キャプチャされたウィンドウ画像がサーバーにアップロードされてデコードされます。"
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "パスワード保護を有効にする"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "履歴に保存できる最大項目数"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "履歴制限"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "QRの種類が増えました！"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "背景色"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "色"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "エラー訂正"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR形式"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QRフレーム"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "画像フォーマット"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "画像フォーマット"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "ロゴ"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "サイズ"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QRスタイル"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "最大 10 個の QR を表示します"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "最大 QR 数"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "デフォルトで有効になっている場合、オプションは既知のタイプ (LINK、SMS、電子メール、電話番号、GIO がサポートされています) の解析されたコンテンツを表示し、それ以外の場合は生のテキストを表示します。"
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "既知の型の解析済みコンテンツを表示する"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "サインインしてさらにオプションを入手"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "同期履歴"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "マージン"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "特定の QR タイプに興味がある場合は、\u003Ca>サポート\u003C/a>にお問い合わせください。"
+   },
+   "statsText": {
+      "description": "",
+      "message": "近日公開！統計の表示"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "新しいQRをクリックしてください"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "クリップボードに正常にコピーされました"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "QRを作成しました"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "QRの作成"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "操作が失敗しました。もう一度お試しください"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "特定の QR タイプの解析に興味がある場合は、\u003Ca>サポート\u003C/a>にお問い合わせください。"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "新しいQR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "注: 分析を使用して独自の新しい QR コードを作成します (近日公開予定)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QRが見つかりませんでした。"
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "オンラインデコード中です。お待​​ちください。"
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "リンクを開く"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "必要"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "スキャンされた QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "ショートリンク"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "解析されたものを表示"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "知らない"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "\u003Ca>オプション\u003C/a>の変更履歴制限"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "\u003Ca>オプション\u003C/a>の変更履歴制限"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "QRを作成しました"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "\u003Ca>オプション\u003C/a>でオンライン デコードを有効にしてみてください"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "\u003Ca>オプション\u003C/a>でオンライン デコードを有効にしてみてください"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "スキャンされた QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>ユーザー アカウント\u003C/li>\u003Cli>分析 (10 以上) とレポート\u003C/li>\u003Cli>カスタム ショートリンクと QR コード\u003C/li>\u003Cli>QR コード、8 種類以上の新しいタイプ\u003C/li>\u003C li>セキュリティ\u003C/li>\u003Cli>10 個以上の高度な機能\u003C/li>"
+   }
+}

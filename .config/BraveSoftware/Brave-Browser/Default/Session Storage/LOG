@@ -1,0 +1,18 @@
+2025/12/09-16:07:56.148 5 Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/12/09-16:07:56.151 5 Recovering log #497
+2025/12/09-16:07:56.185 5 Reusing old log /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000497.log 
+2025/12/09-16:27:16.698 5 Level-0 table #501: started
+2025/12/09-16:27:16.756 5 Level-0 table #501: 41264 bytes OK
+2025/12/09-16:27:16.822 5 Delete type=0 #497
+2025/12/09-16:36:13.679 5 Level-0 table #503: started
+2025/12/09-16:36:13.749 5 Level-0 table #503: 238278 bytes OK
+2025/12/09-16:36:13.826 5 Delete type=0 #500
+2025/12/09-16:36:13.828 5 Compacting 4@0 + 1@1 files
+2025/12/09-16:36:13.983 5 Generated table #504@0: 3284 keys, 356621 bytes
+2025/12/09-16:36:13.984 5 Compacted 4@0 + 1@1 files => 356621 bytes
+2025/12/09-16:36:14.023 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/09-16:36:14.025 5 Delete type=2 #494
+2025/12/09-16:36:14.025 5 Delete type=2 #498
+2025/12/09-16:36:14.026 5 Delete type=2 #496
+2025/12/09-16:36:14.026 5 Delete type=2 #501
+2025/12/09-16:36:14.026 5 Delete type=2 #503

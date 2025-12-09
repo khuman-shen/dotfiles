@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/ignored/16.png",
+         "32": "data/icons/ignored/32.png",
+         "48": "data/icons/ignored/48.png"
+      },
+      "default_popup": "data/popup/index.html"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "description": "Execute Action"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "https://webextension.org/listing/useragent-switcher.html",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "data/icons/active/128.png",
+      "16": "data/icons/active/16.png",
+      "256": "data/icons/active/256.png",
+      "32": "data/icons/active/32.png",
+      "48": "data/icons/active/48.png",
+      "64": "data/icons/active/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnxQpKpy712FYWcJR4QduPndXrgeJ1on1H/Q1/59O4etYCUDRgeWxSFOSZdAV8Je0VxEQHU70bFxOZFMaIL8JQ6v0pZDGrJaTQIJ2XnrXzOObRC2obHJG/ZGIh7ZJDQQnEpiT7s/h5VcAChw4y/Zw64+aHzIc/DuV7G6cKYo8eY41MEAnmcLSBjXIgtOLJ1PbgiYI1KawtDjJkkQH6A339pIc2gEyiZq4WYrK8ej3GJnMdsXMSJUxdoV54ykOg8CBiB+qudmQK039TCzTSLI6O5aIVcCPyoJMpXko7qLzQUZE6LG1i4dJMTnoziU1E36/vv/Mn4FpvtIF9qMf8NMmiQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extensionName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "contextMenus", "scripting", "declarativeNetRequestWithHostAccess" ],
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.6"
+}

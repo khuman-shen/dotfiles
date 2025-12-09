@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "สแกนกล้องสดและรหัส QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "สร้าง Shortlinks และ Analytics"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "สร้าง ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "ไม่สามารถเปิดใช้งานเมนูตามบริบท โปรดลองอีกครั้ง"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>คลิกที่นี่\u003C/a>เพื่อเปิดใช้งานเมนูตามบริบทเพื่อการถอดรหัสภาพ QR อย่างง่ายดาย"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "เปิดใช้งานเมนูบริบทสำเร็จแล้ว"
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ ถอดรหัสรูปภาพที่เลือกสำหรับ QR\u003C/li>\u003Cli>✓ สร้าง QR สำหรับข้อความและลิงก์\u003C/li>\u003Cli>✓ ถอดรหัสไฟล์รูปภาพในเครื่อง\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "โปรดให้สิทธิ์ที่จำเป็นเพื่อเปิดใช้งานเมนูบริบท"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "ต้องได้รับอนุญาตที่จำเป็นในการเปิดใช้งานและเรียกใช้สคริปต์การถอดรหัส"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "อัปโหลดภาพ QR และถอดรหัส"
+   },
+   "description": {
+      "description": "",
+      "message": "ส่วนขยาย Chrome สำหรับการอ่านโค้ด QR จากหน้าเว็บ"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "มีไว้สำหรับตรวจหารหัส QR บนหน้าเว็บโดยอัตโนมัติ จากนั้นค้นหาลิงก์และรูปแบบข้อมูล เรียนรู้เพิ่มเติมที่ \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>"
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. นามสกุลนี้คืออะไร?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "ตามค่าเริ่มต้น แต่คุณสามารถกำหนดค่าเพิ่มเติมได้ (ในส่วนด้านบน)"
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. สามารถตรวจจับรหัส QR ได้กี่รหัส?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "ให้บริการหลักในการตรวจจับรหัส QR และสร้าง/จัดการรหัส QR ใหม่ด้วยบริการวิเคราะห์"
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. เว็บไซต์คืออะไรและเหตุใดจึงใช้ที่นี่"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "อย่างแน่นอน! \u003Ca>\u003C/a> โฮสต์บนแพลตฟอร์มคลาวด์ที่ปลอดภัยและออกแบบมาเพื่อปกป้องบริการทั้งหมดด้วยการรับประกัน 100%"
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. รหัส QR ใหม่เหล่านี้จาก qrcd.org ปลอดภัยหรือไม่"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "ใช่! เรากำลังวางแผนที่จะเปิดตัวเวอร์ชันถัดไปในเร็ว ๆ นี้พร้อมคุณสมบัติใหม่ที่ยอดเยี่ยมกว่า 20 รายการ"
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. เราสามารถแก้ไขรหัส QR หรือสร้างประเภทรหัส QR ขั้นสูงได้หรือไม่?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "สามารถใช้สำหรับกิจกรรมทางการตลาดและการส่งเสริมการขายต่าง ๆ เพื่อให้ผู้ใช้สแกนรหัส QR อย่างรวดเร็วและรับเนื้อหาเป้าหมาย เรียนรู้เพิ่มเติมที่ \u003Ca>\u003C/a>"
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. ฉันจะใช้รหัส QR เหล่านี้หรือประโยชน์ของมันได้อย่างไร?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "เราไม่ขอ อ่าน จัดเก็บ หรือประมวลผลรายละเอียดส่วนบุคคลใดๆ เรียนรู้เพิ่มเติมที่ \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. แล้วความเป็นส่วนตัวล่ะ?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "เครื่องอ่านรหัส QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "ยกเลิก"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "เร็วๆ นี้"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "ติดต่อ"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "สำเนา"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "สร้างใหม่"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "สร้างคิวอาร์"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "เปิดใช้งานเมนูบริบท"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "ดาวน์โหลด"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "พลวัต"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "อีเมล"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "เปิดใช้งาน"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "เหตุการณ์"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "คำถามที่พบบ่อย"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "รูปแบบ"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "ทั่วไป"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "สร้าง QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "ตำแหน่งทางภูมิศาสตร์"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "สูง"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "ประวัติศาสตร์"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "บ้าน"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "ลิงค์"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "รู้จักภาพลักษณ์ในท้องถิ่น"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "ต่ำ"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "ปานกลาง"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "ข้อความ"
+   },
+   "labelName": {
+      "description": "",
+      "message": "ชื่อ"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "คนอื่น"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "หมายเลขโทรศัพท์"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "ดูตัวอย่าง"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "ความเป็นส่วนตัว"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "ประเภทคิวอาร์"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "เครื่องอ่าน QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "รู้จักรหัส QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "ลบ"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "รีเซ็ต"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "ข้อความ"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "บันทึก"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "บันทึกไว้"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "เลือก"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "การตั้งค่า"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "แบ่งปันมัน"
+   },
+   "labelText": {
+      "description": "",
+      "message": "ข้อความ"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "ถึง"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "เครื่องมือ"
+   },
+   "labelType": {
+      "description": "",
+      "message": "พิมพ์"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "คุณสมบัติที่จะเกิดขึ้น"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "ใช้เมนูบริบท"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "ไวไฟ"
+   },
+   "name": {
+      "description": "",
+      "message": "เครื่องอ่านรหัส QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "นี่คือ QR ออฟไลน์ สร้าง QR พร้อม URL แบบสั้นเพื่อซิงค์ QR กับคลาวด์ - เร็วๆ นี้!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "สูง - ข้อผิดพลาด 30%"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "ต่ำ - ข้อผิดพลาด 5%"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "ปานกลาง - ข้อผิดพลาด 15%"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "ควอไทล์ - ข้อผิดพลาด 25%"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "บันทึก QR ที่สแกนโดยอัตโนมัติในประวัติ"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "สร้างลิงค์สั้นอัตโนมัติด้วย QR Code"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "ทำอะไรได้มากขึ้นด้วย QR แบบไดนามิก"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "เร็วๆ นี้! QR แบบไดนามิก"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "หากปิดใช้งาน จะไม่สร้าง URL แบบสั้นสำหรับโค้ด QR\u003Cb> ขอแนะนำอย่างยิ่งว่าอย่าปิดใช้งานตัวเลือกนี้เนื่องจาก\u003Ca>เหตุผลด้านความปลอดภัยและประสิทธิภาพ\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "หมายเหตุ: QR ที่ไม่มี URL แบบสั้นจะไม่ถูกซิงค์กับคลาวด์ - เร็วๆ นี้"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "QR แบบไดนามิก"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "ตัวเลือก QR แบบไดนามิก"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "เปิดใช้งานลิงก์แบบกำหนดเอง"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "เปิดใช้งานการวิเคราะห์ QR แบบไดนามิก เช่น จำนวนการสแกน ตำแหน่ง ฯลฯ"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "เปิดใช้งานวันหมดอายุ"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "เปิดใช้งานการถอดรหัส QR หลายรายการ"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "เมื่อเปิดใช้งาน ภาพหน้าต่างที่จับภาพจะถูกอัปโหลดไปยังเซิร์ฟเวอร์โดยอัตโนมัติเพื่อถอดรหัส QR หลายรายการ"
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "เปิดใช้งานการถอดรหัสออนไลน์"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "เมื่อไม่พบ QR ออฟไลน์ ภาพหน้าต่างที่จับภาพจะถูกอัปโหลดไปยังเซิร์ฟเวอร์เพื่อถอดรหัส"
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "เปิดใช้งานการป้องกันด้วยรหัสผ่าน"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "รายการสูงสุดที่จะเก็บไว้ในประวัติศาสตร์"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "ขีด จำกัด ของประวัติ"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "ประเภท QR เพิ่มเติม!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "สีพื้นหลัง"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "สี"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "แก้ไขข้อผิดพลาด"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "รูปแบบคิวอาร์"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "คิวอาร์เฟรม"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "รูปแบบภาพ"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "รูปแบบภาพ"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "โลโก้"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "ขนาด"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "สไตล์คิวอาร์"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "สูงสุด QRs เพื่อแสดงไม่เกิน 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "QR สูงสุด"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "หากเปิดใช้งานโดยค่าเริ่มต้น ตัวเลือกจะแสดงเนื้อหาที่แยกวิเคราะห์สำหรับประเภทที่รู้จัก (ไม่สนับสนุนลิงก์, SMS, อีเมล, หมายเลขโทรศัพท์, GIO) มิฉะนั้นจะเป็นข้อความดิบ"
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "แสดงเนื้อหาที่แยกวิเคราะห์สำหรับประเภทที่รู้จัก"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "รับตัวเลือกเพิ่มเติมโดยลงชื่อเข้าใช้"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "ประวัติการซิงค์"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "ระยะขอบ"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "สนใจประเภท QR ที่เฉพาะเจาะจง โปรดติดต่อ \u003Ca>ฝ่ายสนับสนุน\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "เร็วๆ นี้! ดูสถิติ"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "คลิกที่ QR ใหม่"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "คัดลอกไปยังคลิปบอร์ดเรียบร้อยแล้ว"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "สร้าง QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "การสร้างคิวอาร์"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "การดำเนินการล้มเหลว โปรดลองอีกครั้ง"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "หากต้องการแยกวิเคราะห์ประเภท QR ที่เฉพาะเจาะจง โปรดติดต่อ \u003Ca>ฝ่ายสนับสนุน\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "คิวอาร์ใหม่"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "หมายเหตุ: สร้าง QR Code ใหม่ของคุณเองด้วยการวิเคราะห์ (เร็วๆ นี้)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "ไม่พบ QR"
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "กำลังถอดรหัสออนไลน์ โปรดรอสักครู่.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "เปิดลิ้งค์"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "ที่จำเป็น"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "QR ที่สแกนแล้ว"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "ลิงค์สั้น"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "แสดงการแยกวิเคราะห์"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "ไม่ทราบ"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "ขีดจำกัดประวัติการเปลี่ยนแปลงใน\u003Ca>ตัวเลือก\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "ขีดจำกัดประวัติการเปลี่ยนแปลงใน\u003Ca>ตัวเลือก\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "สร้าง QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "ลองเปิดใช้งานการถอดรหัสออนไลน์ใน\u003Ca>ตัวเลือก\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "ลองเปิดใช้งานการถอดรหัสออนไลน์ใน\u003Ca>ตัวเลือก\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "QR ที่สแกนแล้ว"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>บัญชีผู้ใช้\u003C/li>\u003Cli>Analytics (10+) และรายงาน\u003C/li>\u003Cli>Shortlinks และ QR Code ที่กำหนดเอง\u003C/li>\u003Cli>QR Code, 8+ ประเภทใหม่\u003C/li>\u003C li>ความปลอดภัย\u003C/li>\u003Cli>ฟีเจอร์ขั้นสูงกว่า 10+ รายการ\u003C/li>"
+   }
+}

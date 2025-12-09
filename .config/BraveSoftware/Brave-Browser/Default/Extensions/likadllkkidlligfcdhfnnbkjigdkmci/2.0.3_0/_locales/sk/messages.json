@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Live Camera Scan a QR Code"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Vytvorte krátke odkazy a službu Analytics"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Vytvorte ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Nepodarilo sa povoliť kontextovú ponuku, skúste to znova"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Kliknutím sem\u003C/a> povolíte kontextovú ponuku na jednoduché dekódovanie obrázkov QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Kontextová ponuka bola úspešne aktivovaná."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Dekódovanie vybraného obrázka pre QR\u003C/li>\u003Cli>✓ Generovanie QR pre text a odkazy\u003C/li>\u003Cli>✓ Dekódovanie miestneho súboru obrázka\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Udeľte požadované povolenia na aktiváciu kontextovej ponuky"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Vyžaduje potrebné povolenia na povolenie a spustenie dekódovacieho skriptu"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Nahrajte QR fotografiu a dekódujte"
+   },
+   "description": {
+      "description": "",
+      "message": "Rozšírenie pre Chrome na čítanie QR kódu z webovej stránky"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Slúži na automatickú detekciu QR kódov na webových stránkach a následné nájdenie ich odkazov a dátových formátov. Viac informácií nájdete na \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Čo je toto rozšírenie?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "V predvolenom nastavení jeden, ale môžete ho nakonfigurovať na viac (v časti vyššie)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Koľko QR kódov dokáže rozpoznať?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Poskytuje základné služby na detekciu QR kódov a tiež na vytváranie/správu nových QR kódov s analytickými službami."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Čo je stránka a prečo sa tu používa?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Absolútne! \u003Ca>\u003C/a> je hosťovaná na zabezpečenej cloudovej platforme a je navrhnutá tak, aby chránila všetky služby so 100% zárukou."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Sú tieto nové QR kódy z qrcd.org bezpečné?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Áno! Už čoskoro plánujeme spustiť ďalšiu verziu s 20+ skvelými novými funkciami."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Môžeme upravovať QR kódy alebo vytvárať pokročilé typy QR kódov?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Môže sa použiť na rôzne marketingové a propagačné aktivity, aby používatelia mohli rýchlo skenovať QR kódy a získať cieľový obsah. Viac informácií nájdete na \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Ako môžem použiť tieto QR kódy alebo ich výhody?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Nepýtame sa, nečítame, neukladáme ani nespracovávame žiadne osobné údaje. Viac informácií nájdete na \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Ako je to so súkromím?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Čítačka QR kódov"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Zrušiť"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Už čoskoro"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Kontakt"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Kopírovať"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Vytvor nový"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Vytvorte QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Povoliť kontextovú ponuku"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Stiahnuť ▼"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dynamický"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-mail"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Povoliť"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Udalosť"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Formátovať"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "generál"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Generovať QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Geo poloha"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Vysoká"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "História"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Domov"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Odkaz"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Rozpoznať lokálny obraz"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Nízka"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Stredná"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Správa"
+   },
+   "labelName": {
+      "description": "",
+      "message": "názov"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Iní"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Telefonne cislo"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Náhľad"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Ochrana osobných údajov"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Typy QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR čítačka"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Rozpoznať QR kód"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Odstrániť"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Resetovať"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Uložiť"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Uložené"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Vyberte"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "nastavenie"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Zdieľajte to"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Text"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Komu"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Nástroje"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Typ"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Pripravované funkcie"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Pomocou kontextového menu,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "Čítačka QR kódov"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Toto je offline QR, vytvorte QR s krátkou adresou URL na synchronizáciu QR do cloudu – už čoskoro!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Vysoká – 30 % chyba"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Nízka – 5 % chyba"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Stredná – 15 % chyba"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kvartil – 25 % chyba"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Automatické ukladanie naskenovaných QR kódov do histórie"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Automatické vytváranie krátkych odkazov pomocou QR kódu"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Urobte viac s dynamickými QR kódmi"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Už čoskoro! Dynamický QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Ak je táto možnosť vypnutá, pre QR kód sa nevytvoria žiadne krátke adresy URL.\u003Cb> Dôrazne sa odporúča nezakázať túto možnosť z \u003Ca>bezpečnostných a výkonnostných dôvodov\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Poznámka: QR kódy bez krátkej adresy URL nebudú synchronizované do cloudu – už čoskoro"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dynamický QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Možnosti dynamického QR"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Povoliť vlastné odkazy"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Povoliť dynamickú analýzu QR, ako je počet skenov, poloha atď"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Povoliť dátum vypršania platnosti"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Povoliť viacnásobné dekódovanie QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Keď je táto možnosť povolená, zachytený obrázok okna sa automaticky nahrá na server, aby sa dekódovalo viacero QR kódov."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Povoliť online dekódovanie"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Keď sa nenájdu žiadne QR kódy offline, zachytený obrázok okna sa odošle na server na dekódovanie."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Povoliť ochranu heslom"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Maximálny počet položiek na uchovanie v histórii"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Limit histórie"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Viac typov QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Farba pozadia"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Farba"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Oprava chyby"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Formát QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR rám"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Formát obrázka"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Formát obrázka"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logo"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Veľkosť"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QR štýl"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maximálny počet QR kódov na zobrazenie až 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Maximálny počet QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Ak je predvolene povolená možnosť, zobrazuje analyzovaný obsah pre známe typy (podporuje sa LINK, SMS, e-mail, telefónne číslo, GIO), inak nespracovaný text."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Zobraziť analyzovaný obsah pre známe typy"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Získajte viac možností po prihlásení"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "História synchronizácie"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Marža"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Ak máte záujem o konkrétny typ QR, kontaktujte \u003Ca>podporu\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Už čoskoro! Zobraziť štatistiky"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Kliknite na nový QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Úspešne skopírované do schránky"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Vytvorené QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Vytváranie QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operácia zlyhala, skúste to znova"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Ak máte záujem o analýzu konkrétneho typu QR, kontaktujte \u003Ca>podporu\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Nové QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Poznámka: Vytvorte si vlastný nový QR kód pomocou analýzy (už čoskoro)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "Nenašlo sa žiadne QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Prebieha online dekódovanie, čakajte prosím..."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Otvoriť odkaz"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Požadovaný"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Naskenovaný QR kód"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Krátky odkaz"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Zobraziť analyzované"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Neznámy"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Limit histórie zmien v \u003Ca>možnostiach\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Limit histórie zmien v \u003Ca>možnostiach\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Vytvorené QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Skúste povoliť online dekódovanie v \u003Ca>možnostiach\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Skúste povoliť online dekódovanie v \u003Ca>možnostiach\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Naskenovaný QR kód"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Používateľské účty\u003C/li>\u003Cli>Analytika (10+) a prehľady\u003C/li>\u003Cli>Vlastné krátke odkazy a QR kódy\u003C/li>\u003Cli>QR kód, 8+ nových typov\u003C/li>\u003C li>Zabezpečenie\u003C/li>\u003Cli>10+ pokročilých funkcií\u003C/li>"
+   }
+}

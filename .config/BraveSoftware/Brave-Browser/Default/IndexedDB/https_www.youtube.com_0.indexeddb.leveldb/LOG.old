@@ -1,0 +1,12 @@
+2025/12/08-21:02:19.595 2be Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-21:02:19.596 2be Recovering log #156
+2025/12/08-21:02:19.694 2be Reusing old log /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000156.log 
+2025/12/08-21:02:32.573 2c2 Level-0 table #161: started
+2025/12/08-21:02:32.732 2c2 Level-0 table #161: 1315637 bytes OK
+2025/12/08-21:02:32.775 2c2 Delete type=0 #156
+2025/12/08-21:07:32.274 2c2 Compacting 1@1 + 1@2 files
+2025/12/08-21:07:32.408 2c2 Generated table #162@1: 1091 keys, 61521 bytes
+2025/12/08-21:07:32.408 2c2 Compacted 1@1 + 1@2 files => 61521 bytes
+2025/12/08-21:07:32.448 2c2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/08-21:07:32.449 2c2 Delete type=2 #158
+2025/12/08-21:07:32.449 2c2 Delete type=2 #161

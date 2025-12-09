@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Скенирање камере уживо и КР код"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Креирајте кратке везе и аналитику"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Креирајте СхортУрл КР"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Омогућавање контекстног менија није успело, покушајте поново"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Cа>Кликните овде\u003C/а> да бисте омогућили контекстни мени за лако декодирање КР слика"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Контекстни мени је успешно омогућен."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cли>✓ Декодирање изабране слике за КР\u003C/ли>\u003Cли>✓ Генерисање КР за текст и везе\u003C/ли>\u003Cли>✓ Декодирање локалне датотеке слике\u003C/ли>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Дајте потребне дозволе да бисте омогућили контекстни мени"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Потребне су му неопходне дозволе за омогућавање и покретање скрипте за декодирање"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Отпремите КР фотографију и декодирајте"
+   },
+   "description": {
+      "description": "",
+      "message": "Цхроме проширење за читање КР кода са веб странице"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Служи за аутоматско откривање КР кодова на веб страницама, а затим проналажење њихових веза и формата података. Сазнајте више на \u003Cа>хттпс://ен.википедиа.орг/вики/КР_цоде\u003C/а>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Шта је ово проширење?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Подразумевано један, али можете га конфигурисати за више (у горњем одељку)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Колико КР кодова може да открије?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Пружа основне услуге за откривање КР кодова, као и за креирање/управљање новим КР кодовима, уз услуге аналитике."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Шта је сајт и зашто се овде користи?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Апсолутно! \u003Cа>\u003C/а> се хостује на безбедној платформи у облаку и дизајниран је да заштити све услуге са 100% гаранцијом."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Да ли су ови нови КР кодови са крцд.орг безбедни?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Да! Планирамо да ускоро покренемо следећу верзију са 20+ сјајних нових функција."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Можемо ли уређивати КР кодове или креирати напредне типове КР кодова?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Може се користити за разне маркетиншке и промотивне активности како би корисницима омогућио да брзо скенирају КР кодове и добију циљни садржај. Сазнајте више на \u003Cа>\u003C/а>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Како могу да користим ове КР кодове или њихове предности?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Не тражимо, не читамо, не чувамо нити обрађујемо било какве личне податке. Сазнајте више на \u003Cа>\u003C/а>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Шта је са приватношћу?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Читач КР кодова"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Поништити, отказати"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Долази ускоро"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Контакт"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Копирај"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Створи ново"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Креирајте КР"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Омогући контекстни мени"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Преузимање"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Динамиц"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "Емаил"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Омогући"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Догађај"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "ФАК"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Формат"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Генерал"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Генеришите КР"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Гео локација"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Високо"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Историја"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Кућа"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Линк"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Препознајте локалну слику"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Ниско"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Средње"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Порука"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Име"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Други"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Бр. телефона"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Преглед"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Приватност"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "КР Типес"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "КР Реадер"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Препознајте КР код"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Уклони"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Ресетовати"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "СМС"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "сачувати"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Сачувано"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Изаберите"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Подешавања"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Поделите то"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Текст"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "До"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Алати"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Тип"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "УРЛ"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Предстојеће карактеристике"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "УРЛ"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Користећи контекстни мени,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Ви-фи"
+   },
+   "name": {
+      "description": "",
+      "message": "КР Цоде Реадер"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Ово је офлајн КР, креирајте КР са кратким УРЛ-ом да бисте синхронизовали КР-ове са облаком - Ускоро!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Високо - 30% грешке"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Ниско - 5% грешке"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Средња - 15% грешка"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Квартил - 25% грешка"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Аутоматски сачувај скенирани КР у историји"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Аутоматски креирајте кратке везе са КР кодом"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Урадите више са динамичким КР-овима"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Долази ускоро! Динамиц КР"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Ако је онемогућено, неће бити креирани кратки УРЛ-ови за КР код.\u003Cб> Веома се препоручује да не онемогућите ову опцију из \u003Cа>безбедносних и перформансних разлога\u003C/а>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Напомена: КР-ови без кратког УРЛ-а неће бити синхронизовани са облаком – Ускоро"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Динамиц КР"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Динамичке КР опције"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Омогућите прилагођене везе"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Омогућите динамичку КР аналитику као што је број скенирања, локација итд"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Омогући датум истека"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Омогућите вишеструко КР декодирање"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Када је омогућено, снимљена слика прозора ће се аутоматски отпремити на сервер за декодирање више КР-ова."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Омогући једно декодирање"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Када није пронађен ниједан КР-ови ван мреже, снимљена слика прозора ће бити отпремљена на сервер за декодирање."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Омогућите заштиту лозинком"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Максималан број ставки које треба задржати у историји"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Ограничење историје"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Више КР типова!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Боја позадине"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Боја"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Корекција грешке"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "КР Формат"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "КР оквир"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Формат слике"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Формат слике"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Лого"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Величина"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "КР Стиле"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Максималан број КР-ова за приказ до 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Мак КРс"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Ако је подразумевано омогућена, опција приказује рашчлањени садржај за познате типове (ЛИНК, СМС, е-пошта, број телефона, ГИО су подржани), у супротном сирови текст."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Прикажи рашчлањени садржај за познате типове"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Добијте више опција тако што ћете се пријавити"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Историја синхронизације"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Маргина"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Заинтересовани за одређени КР тип, контактирајте \u003Cа>подршку\u003C/а>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Долази ускоро! Погледајте статистику"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Кликните на нови КР"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Успешно копирано у међуспремник"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Цреатед КР"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Креирање КР"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Операција није успела, покушајте поново"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Заинтересовани за рашчлањивање одређеног типа КР-а, контактирајте \u003Cа>подршку\u003C/а>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Нови КР"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Напомена: Направите свој нови КР код помоћу аналитике (ускоро)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "КР није пронађен."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Онлине декодирање је у току, сачекајте.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Отвори линк"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Потребан"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Скениран КР"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Кратка веза"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Прикажи рашчлањено"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Непознат"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Ограничење историје промена у \u003Cа>опцијама\u003C/а>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Ограничење историје промена у \u003Cа>опцијама\u003C/а>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Цреатед КР"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Покушајте да омогућите декодирање на мрежи у \u003Cа>опцијама\u003C/а>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Покушајте да омогућите декодирање на мрежи у \u003Cа>опцијама\u003C/а>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Скениран КР"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cли>Кориснички налози\u003C/ли>\u003Cли>Аналитика (10+) и извештаји\u003C/ли>\u003Cли>Прилагођене кратке везе и КР кодови\u003C/ли>\u003Cли>КР код, 8+ нових типова\u003C/ли>\u003C ли>Безбедност\u003C/ли>\u003Cли>10+ напредних функција\u003C/ли>"
+   }
+}

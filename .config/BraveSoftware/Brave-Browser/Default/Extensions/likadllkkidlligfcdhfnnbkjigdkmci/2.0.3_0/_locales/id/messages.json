@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Pemindaian Kamera Langsung dan Kode QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Buat Tautan Pendek dan Analitik"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Buat QR Url Pendek"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Gagal mengaktifkan menu konteks, harap coba lagi"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Klik di sini\u003C/a> untuk mengaktifkan menu konteks untuk mendekode gambar QR dengan mudah"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Menu konteks berhasil diaktifkan."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Dekode gambar pilihan untuk QR\u003C/li>\u003Cli>✓ Hasilkan QR untuk teks dan tautan\u003C/li>\u003Cli>✓ Dekode file gambar lokal\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Harap berikan izin yang diperlukan untuk mengaktifkan menu konteks"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Diperlukan izin yang diperlukan untuk mengaktifkan dan menjalankan skrip decoding"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Unggah foto QR dan Dekode"
+   },
+   "description": {
+      "description": "",
+      "message": "Ekstensi chrome untuk membaca kode QR dari halaman web"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Ini untuk secara otomatis mendeteksi kode QR di halaman web, dan kemudian menemukan tautan dan format datanya. Pelajari lebih lanjut di \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Apa ekstensi ini?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Secara default, tetapi Anda dapat mengonfigurasinya untuk lebih banyak (di bagian atas)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Berapa banyak kode QR yang dapat dideteksi?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Ini menyediakan layanan inti untuk mendeteksi kode QR dan juga untuk membuat/mengelola kode QR baru, dengan layanan analitik."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Apa itu situs dan mengapa digunakan di sini?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Sangat! \u003Ca>\u003C/a> dihosting di platform cloud yang aman dan dirancang untuk melindungi semua layanan dengan jaminan 100%."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Apakah kode QR baru dari qrcd.org ini aman?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Ya! Kami berencana untuk segera meluncurkan versi berikutnya dengan 20+ fitur baru yang hebat."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Bisakah kita Mengedit kode QR atau membuat jenis kode QR tingkat lanjut?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Ini dapat digunakan untuk berbagai kegiatan pemasaran dan promosi agar pengguna dapat memindai kode QR dengan cepat dan mendapatkan konten target. Pelajari lebih lanjut di \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Bagaimana saya bisa menggunakan kode QR ini atau manfaatnya?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Kami tidak meminta, membaca, menyimpan, atau memproses informasi pribadi apa pun. Pelajari lebih lanjut di \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Bagaimana dengan privasi?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Pembaca Kode QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Membatalkan"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Segera hadir"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Kontak"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Menyalin"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Membuat baru"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Buat QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Aktifkan Menu Konteks"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Unduh"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamis"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "Surel"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Memungkinkan"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Peristiwa"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Format"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Umum"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Hasilkan QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Lokasi geografis"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Tinggi"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Sejarah"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Rumah"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Tautan"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Mengenali citra lokal"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Rendah"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Sedang"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Pesan"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Nama"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Yang lain"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "No Telepon"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Pratinjau"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Pribadi"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Jenis QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "Pembaca QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Kenali kode QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Menghapus"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Mengatur ulang"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Menyimpan"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Diselamatkan"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Pilih"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Pengaturan"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Bagikan itu"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Teks"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Ke"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Peralatan"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Jenis"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Fitur yang akan datang"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Menggunakan menu konteks,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "Pembaca Kode QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Ini adalah QR offline, buat QR dengan url pendek untuk menyinkronkan QR ke cloud - Segera Hadir!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Tinggi - Kesalahan 30%."
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Rendah - Kesalahan 5%."
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Sedang - Kesalahan 15%."
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kuartil - Kesalahan 25%."
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Simpan otomatis QR yang dipindai ke dalam riwayat"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Buat tautan pendek secara otomatis dengan Kode QR"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Lakukan lebih banyak dengan QR dinamis"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Segera hadir! QR dinamis"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Jika dinonaktifkan, tidak ada url pendek yang akan dibuat untuk Kode QR.\u003Cb> Sangat disarankan untuk tidak menonaktifkan opsi ini karena \u003Ca>alasan keamanan dan kinerja\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Catatan: QR tanpa URL pendek tidak akan disinkronkan ke cloud - Segera hadir"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "QR Dinamis"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Opsi QR Dinamis"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Aktifkan tautan khusus"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Aktifkan analitik QR dinamis seperti jumlah pemindaian, lokasi, dll"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Aktifkan tanggal kedaluwarsa"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Aktifkan beberapa decoding QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Saat diaktifkan, gambar jendela yang diambil akan diunggah secara otomatis ke server untuk memecahkan kode beberapa QR."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Aktifkan decoding online"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Ketika tidak ada QR yang ditemukan offline, gambar jendela yang diambil akan diunggah ke server untuk didekode."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Aktifkan perlindungan kata sandi"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Item maksimum untuk disimpan dalam sejarah"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Batas riwayat"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Lebih banyak jenis QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Warna latar belakang"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Warna"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Koreksi kesalahan"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Format QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "Bingkai QR"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Format gambar"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Format gambar"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logo"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Ukuran"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Gaya QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maks QR untuk ditampilkan hingga 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "QR maks"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Jika diaktifkan secara default, opsi menampilkan konten yang diuraikan untuk jenis yang diketahui (LINK, SMS, EMail, Nomor telepon, GIO didukung), jika tidak, teks mentah."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Tampilkan konten yang diuraikan untuk jenis yang diketahui"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Dapatkan lebih banyak opsi dengan masuk"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Sinkronkan riwayat"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Batas"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Tertarik dengan jenis QR tertentu, harap hubungi \u003Ca>dukungan\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Segera hadir! Lihat statistik"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Klik pada QR baru"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Berhasil disalin ke papan klip"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "QR dibuat"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Membuat QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operasi gagal, silakan coba lagi"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Tertarik untuk mengurai jenis QR tertentu, hubungi \u003Ca>dukungan\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "QR baru"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Catatan: Buat Kode QR baru Anda sendiri dengan analitik (segera hadir)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR tidak ditemukan."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Dekode online sedang berlangsung, harap tunggu.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Buka tautan"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Diperlukan"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "QR yang dipindai"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Tautan pendek"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Tampilkan diurai"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Tidak dikenal"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Ubah batas histori di \u003Ca>opsi\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Ubah batas histori di \u003Ca>opsi\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "QR dibuat"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Coba aktifkan decoding online di \u003Ca>opsi\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Coba aktifkan decoding online di \u003Ca>opsi\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "QR yang dipindai"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Akun Pengguna\u003C/li>\u003Cli>Analytics (10+) dan Laporan\u003C/li>\u003Cli>Tautan Pendek Kustom dan Kode QR\u003C/li>\u003Cli>Kode QR, 8+ Jenis baru\u003C/li>\u003C li>Keamanan\u003C/li>\u003Cli>10+ fitur canggih\u003C/li>"
+   }
+}

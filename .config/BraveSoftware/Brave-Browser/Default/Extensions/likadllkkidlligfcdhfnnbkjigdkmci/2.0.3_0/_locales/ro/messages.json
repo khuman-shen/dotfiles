@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Scanare live a camerei și cod QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Creați linkuri scurte și analize"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Creați ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Nu s-a activat meniul contextual, vă rugăm să încercați din nou"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Faceți clic aici\u003C/a> pentru a activa meniul contextual pentru decodarea simplă a imaginilor QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Meniul contextual a fost activat cu succes."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Decodați imaginea selectată pentru QR\u003C/li>\u003Cli>✓ Generați QR pentru text și linkuri\u003C/li>\u003Cli>✓ Decodificați fișierul imagine local\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Vă rugăm să acordați permisiunile necesare pentru a activa meniul contextual"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Este nevoie de permisiunile necesare pentru a activa și rula scriptul de decodare"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Încărcați o fotografie QR și decodați"
+   },
+   "description": {
+      "description": "",
+      "message": "O extensie Chrome pentru citirea codului QR de pe pagina web"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Este pentru detectarea automată a codurilor QR pe ​​paginile web și apoi găsirea linkurilor și formatele de date ale acestora. Aflați mai multe la \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Ce este această extensie?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "În mod implicit unul, dar îl puteți configura pentru mai multe (în secțiunea de mai sus)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Câte coduri QR poate detecta?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Oferă serviciile de bază pentru detectarea codurilor QR și, de asemenea, pentru a crea/administra coduri QR noi, cu servicii de analiză."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Ce este site-ul și de ce este folosit aici?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Absolut! \u003Ca>\u003C/a> este găzduit pe platforma cloud securizată și conceput pentru a proteja toate serviciile cu o garanție de 100%."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Sunt sigure aceste noi coduri QR de la qrcd.org?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Da! Planificăm să lansăm următoarea versiune foarte curând, cu peste 20 de funcții noi grozave."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Putem edita coduri QR sau putem crea tipuri avansate de coduri QR?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Poate fi folosit pentru diverse activități de marketing și promovare pentru a permite utilizatorilor să scaneze rapid codurile QR și să obțină conținutul țintă. Aflați mai multe la \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Cum pot folosi aceste coduri QR sau beneficiile acestora?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Nu cerem, citim, stocăm sau procesăm niciun fel de detalii personale. Aflați mai multe la \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Dar confidențialitate?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Cititor de coduri QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Anulare"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "In curand"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "a lua legatura"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Copie"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Creaza nou"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Creați QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Activați meniul contextual"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Descarca"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamic"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-mail"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Permite"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Eveniment"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Format"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "General"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Generați QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Locație geografică"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Înalt"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Istorie"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Acasă"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Legătură"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Recunoașteți imaginea locală"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Scăzut"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Mediu"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Mesaj"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Nume"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Alții"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "nr de telefon"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "previzualizare"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Confidențialitate"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Tipuri QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "Cititor QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Recunoaște codul QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Elimina"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Resetați"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Salvați"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Salvat"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Selectați"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Setări"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Împărtășește-l"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Text"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "La"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Instrumente"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Tip"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Funcții viitoare"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Folosind meniul contextual,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "Cititor de coduri QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Acesta este un QR offline, creați QR cu o adresă URL scurtă pentru a sincroniza QR-urile cu cloud - În curând!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Ridicat - 30% Eroare"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Scăzut - 5% Eroare"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Eroare medie - 15%."
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Quartila - 25% Eroare"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Salvați automat QR-ul scanat în istoric"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Creați automat linkuri scurte cu codul QR"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Faceți mai multe cu QR-uri dinamice"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "In curand! QR dinamic"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Dacă este dezactivată, nu vor fi create adrese URL scurte pentru codul QR.\u003Cb> Este foarte recomandat să nu dezactivați această opțiune din \u003Ca>motive de securitate și performanță\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Notă: QR-urile fără adresă URL scurtă nu vor fi sincronizate cu cloud - În curând"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "QR dinamic"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Opțiuni QR dinamice"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Activați linkurile personalizate"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Activați analiza QR dinamică, cum ar fi numărul de scanări, locația etc"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Activați data de expirare"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Activați decodarea QR multiple"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Când este activată, imaginea de fereastră capturată va fi încărcată automat pe server pentru a decoda mai multe QR-uri."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Activați decodarea online"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Când nu se găsesc QR offline, imaginea fereastra capturată va fi încărcată pe server pentru a fi decodată."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Activați protecția prin parolă"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Numărul maxim de articole de păstrat în istorie"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Limită istorică"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Mai multe tipuri de QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Culoare de fundal"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Culoare"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Corectarea erorii"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Format QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "Cadrul QR"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Format de imagine"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Format de imagine"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Siglă"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "mărimea"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Stil QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "QR-uri maxime pentru a se afișa până la 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "QR maxim"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Dacă este activată implicit, opțiunea afișează conținut analizat pentru tipurile cunoscute (sunt acceptate LINK, SMS, e-mail, număr de telefon, GIO), altfel text brut."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Afișați conținutul analizat pentru tipurile cunoscute"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Obțineți mai multe opțiuni conectându-vă"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Istoricul de sincronizare"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Marja"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Sunteți interesat de un anumit tip de QR, contactați \u003Ca>asistența\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "In curand! Vedeți statistici"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Faceți clic pe QR nou"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Copiat cu succes în clipboard"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "S-a creat QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Crearea QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operațiunea a eșuat, vă rugăm să încercați din nou"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Interesați să analizați un anumit tip QR, contactați \u003Ca>asistența\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "QR nou"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Notă: creați propriul cod QR cu analize (în curând)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "Nu a fost găsit niciun QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Decodarea online este în curs, vă rugăm să așteptați.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Deschide link-ul"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Necesar"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "QR scanat"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Legătură scurtă"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Arată analizat"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Necunoscut"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Modificați limita istoricului în \u003Ca>opțiuni\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Modificați limita istoricului în \u003Ca>opțiuni\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "S-a creat QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Încercați să activați decodarea online în \u003Ca>opțiuni\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Încercați să activați decodarea online în \u003Ca>opțiuni\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "QR scanat"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Conturi de utilizator\u003C/li>\u003Cli>Analitice (10+) și rapoarte\u003C/li>\u003Cli>Link-uri scurte personalizate și coduri QR\u003C/li>\u003Cli>Cod QR, peste 8 tipuri noi\u003C/li>\u003C li>Securitate\u003C/li>\u003Cli>10+ funcții avansate\u003C/li>"
+   }
+}

@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Élő kamera szkennelés és QR-kód"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Hozzon létre rövid linkeket és elemzéseket"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Hozzon létre ShortUrl QR-t"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Nem sikerült engedélyezni a helyi menüt, próbálkozzon újra"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Kattintson ide\u003C/a> a helyi menü engedélyezéséhez a QR-képek egyszerű dekódolásához"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "A helyi menü sikeresen engedélyezve."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ A kiválasztott kép dekódolása QR-kódhoz\u003C/li>\u003Cli>✓ QR-kód generálása szöveghez és linkekhez\u003C/li>\u003Cli>✓ Helyi képfájl dekódolása\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Kérjük, adja meg a szükséges engedélyeket a helyi menü engedélyezéséhez"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "A dekódoló szkript engedélyezéséhez és futtatásához szükséges engedélyek szükségesek"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Töltse fel a QR-fotót és dekódolja"
+   },
+   "description": {
+      "description": "",
+      "message": "Króm-bővítmény QR-kód olvasásához weboldalról"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Arra szolgál, hogy automatikusan felismerje a QR-kódokat a weboldalakon, majd megtalálja a linkjeit és az adatformátumait. További információ: \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Mi ez a kiterjesztés?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Alapértelmezés szerint egy, de többre is beállíthatja (a fenti részben)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Hány QR-kódot képes észlelni?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Alapvető szolgáltatásokat nyújt a QR-kódok észleléséhez, valamint új QR-kódok létrehozásához/kezeléséhez, elemző szolgáltatásokkal."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Mi az a webhely, és miért használják itt?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Teljesen! A \u003Ca>\u003C/a> biztonságos felhőplatformon található, és úgy tervezték, hogy minden szolgáltatást 100%-os garanciával védjen."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Biztonságosak ezek az új QR-kódok a qrcd.org webhelyről?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Igen! Terveink szerint hamarosan megjelenik a következő verzió 20+ nagyszerű új funkcióval."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Szerkeszthetünk QR-kódokat vagy létrehozhatunk speciális QR-kódtípusokat?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Különféle marketing- és promóciós tevékenységekhez használható, hogy a felhasználók gyorsan beolvassák a QR-kódokat és megkapják a célzott tartalmat. További információ: \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Hogyan használhatom ezeket a QR-kódokat vagy előnyeit?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Nem kérünk, olvasunk, tárolunk vagy dolgozunk fel semmilyen személyes adatot. További információ: \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Mi a helyzet a magánélettel?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "QR kód olvasó"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Megszünteti"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Hamarosan"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Kapcsolatba lépni"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Másolat"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Újat készíteni"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "QR létrehozása"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Helyi menü engedélyezése"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Letöltés"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamikus"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "Email"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Engedélyezze"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Esemény"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "GYIK"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Formátum"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Tábornok"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "QR-kód generálása"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Földrajzi elhelyezkedés"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Magas"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Történelem"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "itthon"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Link"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Helyi kép felismerése"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Alacsony"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Közepes"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Üzenet"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Név"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Mások"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Telefonszám"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Előnézet"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Magánélet"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "QR-típusok"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR olvasó"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "A QR-kód felismerése"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Távolítsa el"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Visszaállítás"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Megment"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Mentett"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Válassza ki"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Beállítások"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Oszd meg"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Szöveg"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Nak nek"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Eszközök"
+   },
+   "labelType": {
+      "description": "",
+      "message": "típus"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Közelgő funkciók"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "A helyi menü használatával,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "QR kód olvasó"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Ez egy offline QR-kód, hozzon létre QR-kódot rövid URL-lel, hogy szinkronizálja a QR-kódokat a felhőbe – hamarosan!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Magas – 30%-os hiba"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Alacsony – 5%-os hiba"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Közepes – 15%-os hiba"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kvartilis – 25%-os hiba"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "A beolvasott QR automatikus mentése az előzményekbe"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Rövid linkek automatikus létrehozása QR-kóddal"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Tegyen többet a dinamikus QR-kódokkal"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Hamarosan! Dinamikus QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Ha le van tiltva, a rendszer nem hoz létre rövid URL-eket a QR-kódhoz.\u003Cb> Erősen ajánlott, hogy ne tiltsa le ezt a lehetőséget \u003Ca>biztonsági és teljesítmény okokból\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Megjegyzés: A rövid URL-lel nem rendelkező QR-kódok nem lesznek szinkronizálva a felhővel – hamarosan"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dinamikus QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Dinamikus QR-beállítások"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Egyéni hivatkozások engedélyezése"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Engedélyezze a dinamikus QR-elemzést, például a szkennelések számát, helyét stb"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Lejárati dátum engedélyezése"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Több QR-dekódolás engedélyezése"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Ha engedélyezve van, a rögzített ablakkép automatikusan feltöltődik a szerverre több QR-kód dekódolásához."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Onine dekódolás engedélyezése"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Ha nem található QR-kód offline állapotban, a rögzített ablakkép feltöltődik a szerverre a dekódoláshoz."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Jelszavas védelem engedélyezése"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "A történelemben megőrzendő elemek maximális száma"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Történeti korlát"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "További QR típusok!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Háttérszín"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Szín"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Hibajavítás"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR formátum"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR-keret"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Képformátum"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Képformátum"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logó"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Méret"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QR stílus"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maximum 10 megjeleníthető QR-kód"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Max QR-ok"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Ha alapértelmezés szerint engedélyezve van, az elemzett tartalmat jelenít meg az ismert típusokhoz (LINK, SMS, e-mail, telefonszám, GIO támogatott), egyébként nyers szöveget."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Az ismert típusokhoz tartozó elemzett tartalom megjelenítése"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "További lehetőségeket kaphat, ha bejelentkezik"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Szinkronizálási előzmények"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Árrés"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Egy adott QR-típus iránt érdeklődik, kérjük, forduljon az \u003Ca>ügyfélszolgálathoz\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Hamarosan! Statisztikák megtekintése"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Kattintson az új QR-ra"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Sikeresen másolva a vágólapra"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Létrehozva a QR-t"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "QR létrehozása"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "A művelet nem sikerült, próbálja újra"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Ha érdekel egy adott QR-típus elemzése, forduljon az \u003Ca>ügyfélszolgálathoz\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Új QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Megjegyzés: Hozzon létre új QR-kódot az analitikával (hamarosan)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "Nem található QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Az online dekódolás folyamatban van, kérjük, várjon."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Link megnyitása"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Kívánt"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Beolvasott QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Rövid link"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Megjelenítés elemzett"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Ismeretlen"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Az előzmények korlátjának módosítása a \u003Ca>beállítások\u003C/a> között"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Az előzmények korlátjának módosítása a \u003Ca>beállítások\u003C/a> között"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Létrehozva a QR-t"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Próbálja engedélyezni az online dekódolást az \u003Ca>beállítások\u003C/a> között"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Próbálja engedélyezni az online dekódolást az \u003Ca>beállítások\u003C/a> között"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Beolvasott QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Felhasználói fiókok\u003C/li>\u003Cli>Analytics (10+) és jelentések\u003C/li>\u003Cli>Egyéni rövid hivatkozások és QR-kódok\u003C/li>\u003Cli>QR-kód, 8+ új típus\u003C/li>\u003C li>Biztonság\u003C/li>\u003Cli>10+ speciális funkció\u003C/li>"
+   }
+}

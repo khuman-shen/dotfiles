@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Quét máy ảnh trực tiếp và mã QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Tạo liên kết ngắn và phân tích"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Tạo QR URL ngắn"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Không bật được menu ngữ cảnh, vui lòng thử lại"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Nhấp vào đây\u003C/a> để bật menu ngữ cảnh để dễ dàng giải mã hình ảnh QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Trình đơn ngữ cảnh được kích hoạt thành công."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli> ✓ Giải mã chọn hình ảnh cho QR\u003C/li>\u003Cli> ✓ Tạo QR cho văn bản và liên kết\u003C/li>\u003Cli> ✓ Giải mã tệp hình ảnh cục bộ\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Vui lòng cấp các quyền cần thiết để bật menu ngữ cảnh"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Nó yêu cầu các quyền cần thiết để bật và chạy tập lệnh giải mã"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Tải lên ảnh QR và giải mã"
+   },
+   "description": {
+      "description": "",
+      "message": "Tiện ích mở rộng của Chrome để đọc mã QR từ trang web"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Đó là để tự động phát hiện mã QR trên các trang web, sau đó tìm các liên kết và định dạng dữ liệu của nó. Tìm hiểu thêm tại \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Phần mở rộng này là gì?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Theo mặc định là một, nhưng bạn có thể cấu hình thêm (ở phần trên)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Nó có thể phát hiện bao nhiêu mã QR?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Nó cung cấp các dịch vụ cốt lõi để phát hiện mã QR và cũng để tạo/quản lý mã QR mới, với các dịch vụ phân tích."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Trang web là gì và tại sao nó được sử dụng ở đây?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Tuyệt đối! \u003Ca>\u003C/a> được lưu trữ trên nền tảng đám mây bảo mật và được thiết kế để bảo vệ tất cả các dịch vụ với bảo đảm 100%."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Những mã QR mới này từ qrcd.org có an toàn không?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Đúng! Chúng tôi dự định sẽ sớm ra mắt phiên bản tiếp theo với hơn 20 tính năng mới tuyệt vời."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Chúng tôi có thể Chỉnh sửa mã QR hoặc tạo các loại mã QR nâng cao không?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Nó có thể được sử dụng cho các hoạt động tiếp thị và quảng cáo khác nhau để cho phép người dùng quét nhanh mã QR và nhận nội dung mục tiêu. Tìm hiểu thêm tại \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Tôi có thể sử dụng các mã QR này như thế nào hoặc lợi ích của nó?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Chúng tôi không hỏi, đọc, lưu trữ hoặc xử lý bất kỳ loại thông tin cá nhân nào. Tìm hiểu thêm tại \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Còn quyền riêng tư thì sao?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Trình đọc mã QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Hủy bỏ"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Sắp ra mắt"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Liên hệ"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Sao chép"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Tạo mới"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Tạo QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Bật Menu ngữ cảnh"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Tải xuống"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Năng động"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-mail"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Cho phép"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Sự kiện"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "Câu hỏi thường gặp"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Định dạng"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Tổng quan"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Tạo QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Vị trí địa lý"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Cao"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Lịch sử"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Trang chủ"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "liên kết"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Nhận dạng hình ảnh cục bộ"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Thấp"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Trung bình"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Tin nhắn"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Tên"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Người khác"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Không có điện thoại"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Xem trước"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Sự riêng tư"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Các loại QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "Trình đọc QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Nhận dạng mã QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Di dời"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Cài lại"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "tin nhắn"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Cứu"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Đã lưu"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Lựa chọn"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Cài đặt"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Chia sẻ nó"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Chữ"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "ĐẾN"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Công cụ"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Kiểu"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Các tính năng sắp tới"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Sử dụng menu ngữ cảnh,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "Đầu đọc mã QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Đây là QR ngoại tuyến, tạo QR bằng url ngắn để đồng bộ hóa QR lên đám mây - Sắp ra mắt!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Cao - Lỗi 30%"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Thấp - Lỗi 5%"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Trung bình - Lỗi 15%"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Phần tư - Lỗi 25%"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Tự động lưu QR đã quét vào lịch sử"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Tự tạo link rút gọn bằng QR Code"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Làm được nhiều việc hơn với QR động"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Sắp ra mắt! QR động"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Nếu bị tắt, sẽ không có url ngắn nào được tạo cho Mã QR.\u003Cb> Bạn không nên tắt tùy chọn này vì \u003Ca>lý do bảo mật và hiệu suất\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Lưu ý: QR không có URL ngắn sẽ không được đồng bộ hóa lên đám mây - Sắp có"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "QR động"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Tùy chọn QR động"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Bật liên kết tùy chỉnh"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Bật phân tích QR động như số lần quét, vị trí, v.v."
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Kích hoạt ngày hết hạn"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Kích hoạt nhiều giải mã QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Khi được bật, hình ảnh cửa sổ đã chụp sẽ tự động được tải lên máy chủ để giải mã nhiều QR."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Kích hoạt giải mã onine"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Khi không tìm thấy QR ngoại tuyến, hình ảnh cửa sổ đã chụp sẽ được tải lên máy chủ để giải mã."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Cho phép bảo vệ mật khẩu"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Các mục tối đa để giữ trong lịch sử"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "giới hạn lịch sử"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Nhiều loại QR hơn!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Màu nền"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Màu sắc"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Sửa lỗi"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Định dạng QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "Khung QR"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Định dạng hình ảnh"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Định dạng hình ảnh"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logo"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Kích cỡ"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Kiểu QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "QR tối đa để hiển thị tối đa 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "QR tối đa"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Nếu được bật theo tùy chọn mặc định, hiển thị nội dung được phân tích cú pháp cho các loại đã biết (LINK, SMS, EMail, Số điện thoại, GIO được hỗ trợ), nếu không thì văn bản thô."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Hiển thị nội dung được phân tích cú pháp cho các loại đã biết"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Nhận thêm tùy chọn bằng cách đăng nhập"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "đồng bộ hóa lịch sử"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Lề"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Quan tâm đến loại QR cụ thể, vui lòng liên hệ với \u003Ca>bộ phận hỗ trợ\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Sắp ra mắt! Xem số liệu thống kê"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Nhấp vào QR mới"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Đã sao chép thành công vào khay nhớ tạm"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "QR đã tạo"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Tạo QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Thao tác không thành công, vui lòng thử lại"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Muốn phân tích cú pháp một loại QR cụ thể, hãy liên hệ với \u003Ca>bộ phận hỗ trợ\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "QR mới"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Lưu ý: Tạo Mã QR mới của riêng bạn bằng phân tích (sắp có)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "Không tìm thấy QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Quá trình giải mã trực tuyến đang diễn ra, vui lòng đợi.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Mở liên kết"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Yêu cầu"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "QR được quét"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "liên kết ngắn"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Hiển thị phân tích cú pháp"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "không xác định"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Thay đổi giới hạn lịch sử trong \u003Ca>tùy chọn\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Thay đổi giới hạn lịch sử trong \u003Ca>tùy chọn\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "QR đã tạo"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Thử bật giải mã trực tuyến trong \u003Ca>tùy chọn\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Thử bật giải mã trực tuyến trong \u003Ca>tùy chọn\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "QR được quét"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Tài khoản người dùng\u003C/li>\u003Cli>Phân tích (10+) và Báo cáo\u003C/li>\u003Cli>Liên kết ngắn tùy chỉnh và mã QR\u003C/li>\u003Cli>Mã QR, hơn 8 loại mới\u003C/li>\u003C li>Bảo mật\u003C/li>\u003Cli>Hơn 10 tính năng nâng cao\u003C/li>"
+   }
+}

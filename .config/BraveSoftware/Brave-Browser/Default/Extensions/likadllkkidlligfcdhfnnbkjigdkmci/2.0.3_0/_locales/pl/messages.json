@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Skanowanie z kamery na żywo i kod QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Twórz krótkie linki i analizy"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Utwórz krótki adres URL QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Nie udało się włączyć menu kontekstowego, spróbuj ponownie"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Kliknij tutaj\u003C/a>, aby włączyć menu kontekstowe do łatwego dekodowania obrazów QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Menu kontekstowe zostało pomyślnie włączone."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Dekoduj wybrany obraz dla kodu QR\u003C/li>\u003Cli>✓ Generuj kod QR dla tekstu i linków\u003C/li>\u003Cli>✓ Dekoduj lokalny plik obrazu\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Przyznaj wymagane uprawnienia, aby włączyć menu kontekstowe"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Wymaga niezbędnych uprawnień do włączenia i uruchomienia skryptu dekodującego"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Prześlij zdjęcie QR i zdekoduj"
+   },
+   "description": {
+      "description": "",
+      "message": "Rozszerzenie do Chrome umożliwiające odczyt kodu QR ze strony internetowej"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Służy do automatycznego wykrywania kodów QR na stronach internetowych, a następnie wyszukiwania linków i formatów danych. Dowiedz się więcej na \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Co to za rozszerzenie?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Domyślnie jeden, ale możesz go skonfigurować na więcej (w powyższej sekcji)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Ile kodów QR może wykryć?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Zapewnia podstawowe usługi wykrywania kodów QR, a także tworzenia i zarządzania nowymi kodami QR, wraz z usługami analitycznymi."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Co to jest strona i dlaczego jest tutaj używana?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Absolutnie! \u003Ca>\u003C/a> jest hostowane na zabezpieczonej platformie w chmurze i zaprojektowane w celu zabezpieczenia wszystkich usług ze 100% gwarancją."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Czy te nowe kody QR z qrcd.org są bezpieczne?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Tak! Planujemy wkrótce uruchomić kolejną wersję z ponad 20 wspaniałymi nowymi funkcjami."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Czy możemy edytować kody QR lub tworzyć zaawansowane typy kodów QR?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Może być używany do różnych działań marketingowych i promocyjnych, aby umożliwić użytkownikom szybkie skanowanie kodów QR i uzyskiwanie docelowych treści. Dowiedz się więcej na \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Jak mogę korzystać z tych kodów QR lub korzyści z nich płynących?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Nie pytamy, nie czytamy, nie przechowujemy ani nie przetwarzamy żadnych danych osobowych. Dowiedz się więcej na \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. A co z prywatnością?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Czytnik kodów QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Anulować"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Wkrótce"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Kontakt"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Kopiuj"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Tworzyć nowe"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Utwórz kod QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Włącz menu kontekstowe"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Pobierać"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dynamiczny"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-mail"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Włączać"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Wydarzenie"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "Często zadawane pytania"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Format"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Ogólny"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Wygeneruj kod QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Lokalizacja geograficzna"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Wysoki"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Historia"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Dom"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Połączyć"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Rozpoznaj lokalny obraz"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Niski"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Średni"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Wiadomość"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Nazwa"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Inni"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Nr telefonu"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Zapowiedź"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Prywatność"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Typy QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "Czytnik kodów QR"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Rozpoznaj kod QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Usunąć"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Resetowanie"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS-y"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Ratować"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Zapisane"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Wybierać"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Ustawienia"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Udostępnij to"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Tekst"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Do"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Narzędzia"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Typ"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "Adres URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Nadchodzące funkcje"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "Adres URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Korzystając z menu kontekstowego,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wi-Fi"
+   },
+   "name": {
+      "description": "",
+      "message": "Czytnik kodów QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "To jest kod QR offline. Utwórz kod QR z krótkim adresem URL, aby zsynchronizować kody QR z chmurą — już wkrótce!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Wysoki — błąd 30%."
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Niski — błąd 5%."
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Średni — błąd 15%."
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kwartyl - błąd 25%."
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Automatyczne zapisywanie zeskanowanych QR w historii"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Automatycznie twórz krótkie linki za pomocą kodu QR"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Zrób więcej dzięki dynamicznym kodom QR"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Wkrótce! Dynamiczny kod QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Jeśli ta opcja jest wyłączona, dla kodu QR nie zostaną utworzone żadne krótkie adresy URL.\u003Cb> Zdecydowanie zaleca się, aby nie wyłączać tej opcji ze \u003Ca>ze względów bezpieczeństwa i wydajności\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Uwaga: kody QR bez krótkiego adresu URL nie będą synchronizowane z chmurą — już wkrótce"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dynamiczny kod QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Dynamiczne opcje QR"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Włącz niestandardowe linki"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Włącz dynamiczne analizy QR, takie jak liczba skanów, lokalizacja itp"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Włącz datę wygaśnięcia"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Włącz wiele dekodowań QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Po włączeniu przechwycony obraz okna zostanie automatycznie przesłany na serwer w celu zdekodowania wielu kodów QR."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Włącz dekodowanie online"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Gdy w trybie offline nie zostaną znalezione żadne kody QR, przechwycony obraz okna zostanie przesłany na serwer w celu zdekodowania."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Włącz ochronę hasłem"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Maksymalna liczba elementów do zachowania w historii"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Granica historii"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Więcej typów QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Kolor tła"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Kolor"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Korekcja błędów"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Format QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "Ramka QR"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Format obrazu"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Format obrazu"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logo"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Rozmiar"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Styl QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maksymalna liczba QR do wyświetlenia do 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Maksymalna liczba QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Jeśli opcja jest włączona domyślnie, pokazuje przeanalizowaną treść dla znanych typów (obsługiwane są LINK, SMS, E-mail, numer telefonu, GIO), w przeciwnym razie nieprzetworzony tekst."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Pokaż przeanalizowaną zawartość dla znanych typów"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Uzyskaj więcej opcji, logując się"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Synchronizuj historię"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Margines"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Zainteresowanych konkretnym typem QR prosimy o kontakt z \u003Ca>pomocą\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Wkrótce! Zobacz statystyki"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Kliknij nowy kod QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Pomyślnie skopiowano do schowka"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Utworzono kod QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Tworzenie kodu QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operacja nie powiodła się, spróbuj ponownie"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Jeśli chcesz przeanalizować kod QR określonego typu, skontaktuj się z \u003Ca>pomocą\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Nowy kod QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Uwaga: Utwórz własny nowy kod QR z danymi analitycznymi (wkrótce)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "Nie znaleziono kodu QR."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Trwa dekodowanie online, proszę czekać.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Otwórz link"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Wymagany"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Zeskanowany kod QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Krótki link"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Pokaż przeanalizowane"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Nieznany"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Limit historii zmian w \u003Ca>opcjach\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Limit historii zmian w \u003Ca>opcjach\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Utworzono kod QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Spróbuj włączyć dekodowanie online w \u003Ca>opcjach\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Spróbuj włączyć dekodowanie online w \u003Ca>opcjach\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Zeskanowany kod QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Konta użytkowników\u003C/li>\u003Cli>Analizy (ponad 10) i raporty\u003C/li>\u003Cli>Niestandardowe skróty i kody QR\u003C/li>\u003Cli>Kod QR, ponad 8 nowych typów\u003C/li>\u003C li>Bezpieczeństwo\u003C/li>\u003Cli>Ponad 10 zaawansowanych funkcji\u003C/li>"
+   }
+}

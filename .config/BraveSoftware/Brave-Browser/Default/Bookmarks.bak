@@ -1,0 +1,58 @@
+{
+   "checksum": "979260f11da31dcb9007b469d9efb473",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13408882609169163",
+            "date_last_used": "0",
+            "guid": "ae74dfef-7275-4933-a625-8f1f9200d289",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Text to ASCII Art Generator (TAAG)",
+            "type": "url",
+            "url": "https://patorjk.com/software/taag/#p=display&f=Bloody&t=QUICK%0ASHORTCUTS&x=none&v=4&h=4&w=80&we=false"
+         }, {
+            "date_added": "13408883603969537",
+            "date_last_used": "0",
+            "guid": "2dfb3a22-e28c-4659-9a1d-5f30664ed875",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Wallpaper Theme Converter",
+            "type": "url",
+            "url": "https://notneelpatel.xyz/WallpaperThemeConverter/"
+         } ],
+         "date_added": "13408880186437505",
+         "date_last_used": "0",
+         "date_modified": "13408883603969537",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13408880186437505",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13408880186437505",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,16 @@
+# GIMP user context
+
+(tool "gimp-curves-tool")
+(paint-info "gimp-paintbrush")
+(foreground
+    (color "HSVA float" 16 "\0\0\0\0\76\361h\76u\32\27\75\0\0\200\77" 0))
+(brush "2. Hardness 075")
+(dynamics "Pressure Size")
+(mybrush "100% Opaque")
+(pattern "Bricks")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(font "Sans-serif")
+(tool-preset "Virtual core pointer")
+
+# end of user context

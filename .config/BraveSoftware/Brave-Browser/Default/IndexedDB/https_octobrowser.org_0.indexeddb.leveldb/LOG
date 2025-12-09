@@ -1,0 +1,6 @@
+2025/12/05-18:38:47.838 2b7 Creating DB /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_octobrowser.org_0.indexeddb.leveldb since it was missing.
+2025/12/05-18:38:47.949 2b7 Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_octobrowser.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/05-20:57:54.968 2b9 Level-0 table #5: started
+2025/12/05-20:57:55.022 2b9 Level-0 table #5: 3365 bytes OK
+2025/12/05-20:57:55.082 2b9 Delete type=0 #3
+2025/12/05-20:57:55.083 2b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

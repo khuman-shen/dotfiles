@@ -1,0 +1,574 @@
+{
+    "labelQrCodeReader": {
+        "message": "QR lesandi",
+        "description": ""
+    },
+    "labelCreateQr": {
+        "message": "Búðu til QR",
+        "description": ""
+    },
+    "labelHistory": {
+        "message": "Saga",
+        "description": ""
+    },
+    "labelComingSoon": {
+        "message": "Kemur bráðum",
+        "description": ""
+    },
+    "labelType": {
+        "message": "Gerð",
+        "description": ""
+    },
+    "textShowParsed": {
+        "message": "Sýna flokkað",
+        "description": ""
+    },
+    "textOpenLink": {
+        "message": "Opna tengil",
+        "description": ""
+    },
+    "labelUrl": {
+        "message": "URL",
+        "description": ""
+    },
+    "textNewQr": {
+        "message": "Nýr QR",
+        "description": ""
+    },
+    "textShortLink": {
+        "message": "Stuttur hlekkur",
+        "description": ""
+    },
+    "textClickNewQr": {
+        "message": "Smelltu á nýja QR",
+        "description": ""
+    },
+    "textNewQrTip": {
+        "message": "Athugið: Búðu til nýjan eigin QR kóða með greiningu (kemur bráðum)",
+        "description": ""
+    },
+    "textInterestedTip": {
+        "message": "Ef þú hefur áhuga á að flokka tiltekna QR tegund skaltu hafa samband við <a>stuðning</a>",
+        "description": ""
+    },
+    "labelName": {
+        "message": "Nafn",
+        "description": ""
+    },
+    "labelDynamic": {
+        "message": "Dynamic",
+        "description": ""
+    },
+    "labelGenerateQr": {
+        "message": "Búðu til QR",
+        "description": ""
+    },
+    "labelReset": {
+        "message": "Endurstilla",
+        "description": ""
+    },
+    "labelTo": {
+        "message": "Til",
+        "description": ""
+    },
+    "labelMessage": {
+        "message": "Skilaboð",
+        "description": ""
+    },
+    "labelPhoneNo": {
+        "message": "Sími nei",
+        "description": ""
+    },
+    "labelText": {
+        "message": "Texti",
+        "description": ""
+    },
+    "labelOthers": {
+        "message": "Aðrir",
+        "description": ""
+    },
+    "textScannedQR": {
+        "message": "Skannaður QR",
+        "description": ""
+    },
+    "textCreatedQr": {
+        "message": "Búið til QR",
+        "description": ""
+    },
+    "labelRemove": {
+        "message": "Fjarlægja",
+        "description": ""
+    },
+    "statsText": {
+        "message": "Kemur bráðum! Skoða tölfræði",
+        "description": ""
+    },
+    "tipChangeHistory": {
+        "message": "Breyttu ferlistakmörkunum í <a>valkostum</a>",
+        "description": ""
+    },
+    "upcomingFeaturesList": {
+        "message": "<li>Notendareikningar</li><li>Greining (10+) og skýrslur</li><li>Sérsniðnir stutttenglar og QR kóðar</li><li>QR kóða, 8+ nýjar gerðir</li>< li>Öryggi</li><li>10+ háþróaðir eiginleikar</li>",
+        "description": ""
+    },
+    "labelHome": {
+        "message": "Heim",
+        "description": ""
+    },
+    "labelContact": {
+        "message": "Hafðu samband",
+        "description": ""
+    },
+    "labelSettings": {
+        "message": "Stillingar",
+        "description": ""
+    },
+    "labelFaq": {
+        "message": "Algengar spurningar",
+        "description": ""
+    },
+    "labelPrivacy": {
+        "message": "Persónuvernd",
+        "description": ""
+    },
+    "labelDownload": {
+        "message": "Sækja",
+        "description": ""
+    },
+    "labelCopy": {
+        "message": "Afrita",
+        "description": ""
+    },
+    "tipScannedQR": {
+        "message": "Skannaður QR",
+        "description": ""
+    },
+    "tipCreatedQr": {
+        "message": "Búið til QR",
+        "description": ""
+    },
+    "labelUpcomingFeatures": {
+        "message": "Væntanlegir eiginleikar",
+        "description": ""
+    },
+    "labelFormat": {
+        "message": "Snið",
+        "description": ""
+    },
+    "tipEnableOnlineDecoding": {
+        "message": "Prófaðu að virkja afkóðun á netinu í <a>valkostum</a>",
+        "description": ""
+    },
+    "textNoQrFound": {
+        "message": "Enginn QR fannst.",
+        "description": ""
+    },
+    "textOnlineDecodingInProgress": {
+        "message": "Afkóðun á netinu er í gangi, vinsamlegast bíðið..",
+        "description": ""
+    },
+    "textUnknown": {
+        "message": "Óþekktur",
+        "description": ""
+    },
+    "labelSMS": {
+        "message": "smáskilaboð",
+        "description": ""
+    },
+    "labelEvent": {
+        "message": "Viðburður",
+        "description": ""
+    },
+    "labelEMail": {
+        "message": "Tölvupóstur",
+        "description": ""
+    },
+    "labelGeo": {
+        "message": "Landfræðileg staðsetning",
+        "description": ""
+    },
+    "labelWifi": {
+        "message": "Þráðlaust net",
+        "description": ""
+    },
+    "labelCreateNew": {
+        "message": "Búa til nýtt",
+        "description": ""
+    },
+    "labelLink": {
+        "message": "Tengill",
+        "description": ""
+    },
+    "labelSelect": {
+        "message": "Veldu",
+        "description": ""
+    },
+    "textRequired": {
+        "message": "Áskilið",
+        "description": ""
+    },
+    "labelURL": {
+        "message": "URL",
+        "description": ""
+    },
+    "textFailed": {
+        "message": "Aðgerð mistókst, vinsamlegast reyndu aftur",
+        "description": ""
+    },
+    "tipChangeHistoryLimit": {
+        "message": "Breyttu ferlistakmörkunum í <a>valkostum</a>",
+        "description": ""
+    },
+    "labelGeneral": {
+        "message": "Almennt",
+        "description": ""
+    },
+    "settingEnableOnlineDecoding": {
+        "message": "Virkjaðu afkóðun á netinu",
+        "description": ""
+    },
+    "settingEnableOnlineHelpText": {
+        "message": "Þegar engin QR-merki finnast án nettengingar, verður tekin gluggamynd hlaðið upp á netþjóninn til að afkóða.",
+        "description": ""
+    },
+    "settingEnableMultipleQr": {
+        "message": "Virkjaðu margar QR-afkóðun",
+        "description": ""
+    },
+    "settingEnableMultipleQrHelpText": {
+        "message": "Þegar virkjað er, verður tekin gluggamynd sjálfkrafa hlaðið upp á netþjóninn til að afkóða marga QR.",
+        "description": ""
+    },
+    "settingShowParsedContentLabel": {
+        "message": "Sýna flokkað efni fyrir þekktar tegundir",
+        "description": ""
+    },
+    "settingShowParsedContentHelpText": {
+        "message": "Ef sjálfgefið er virkt sýnir valkosturinn þáttað efni fyrir þekktar tegundir (LINK, SMS, tölvupóstur, símanúmer, GIO eru studd), annars hrár texti.",
+        "description": ""
+    },
+    "settingShowMaxQrLabel": {
+        "message": "Hámark QRs",
+        "description": ""
+    },
+    "settingShowMaxQrHelpText": {
+        "message": "Hámarks QR til að sýna allt að 10",
+        "description": ""
+    },
+    "settingAutoSaveScannedLabel": {
+        "message": "Vista skannað QR sjálfkrafa í sögu",
+        "description": ""
+    },
+    "settingAutoShortLinkLabel": {
+        "message": "Búðu til stutta tengla sjálfkrafa með QR kóða",
+        "description": ""
+    },
+    "labelSave": {
+        "message": "Vista",
+        "description": ""
+    },
+    "settingHistoryLimitLabel": {
+        "message": "Sögumörk",
+        "description": ""
+    },
+    "settingHistoryLimitHelpText": {
+        "message": "Hámarkshlutir til að geyma í sögunni",
+        "description": ""
+    },
+    "settingSigninMoreText": {
+        "message": "Fáðu fleiri valkosti með því að skrá þig inn",
+        "description": ""
+    },
+    "settingSyncHistoryLabel": {
+        "message": "Samstillingarferill",
+        "description": ""
+    },
+    "settingEnableDynamicQrStats": {
+        "message": "Virkjaðu kraftmikla QR greiningu eins og skannafjölda, staðsetningu osfrv",
+        "description": ""
+    },
+    "settingDynamicQrOptionsLabel": {
+        "message": "Dynamic QR valkostir",
+        "description": ""
+    },
+    "settingDynamicQrComingSoon": {
+        "message": "Kemur bráðum! Dynamic QR",
+        "description": ""
+    },
+    "settingDoMoreDynamicQrText": {
+        "message": "Gerðu meira með kraftmiklum QR",
+        "description": ""
+    },
+    "settingEnableCustomLinksLabel": {
+        "message": "Virkja sérsniðna tengla",
+        "description": ""
+    },
+    "settingEnablePasswordLabel": {
+        "message": "Virkjaðu lykilorðsvörn",
+        "description": ""
+    },
+    "settingEnableExpiryLabel": {
+        "message": "Virkja fyrningardagsetningu",
+        "description": ""
+    },
+    "labelQRTypes": {
+        "message": "QR tegundir",
+        "description": ""
+    },
+    "settingMoreQrTypesLabel": {
+        "message": "Fleiri QR tegundir!",
+        "description": ""
+    },
+    "specificQrTypeHelpText": {
+        "message": "Ef þú hefur áhuga á tiltekinni QR gerð skaltu hafa samband við <a>stuðning</a>",
+        "description": ""
+    },
+    "labelTools": {
+        "message": "Verkfæri",
+        "description": ""
+    },
+    "decodeToolLabel": {
+        "message": "Hladdu upp QR mynd og afkóðu",
+        "description": ""
+    },
+    "cameraDecodeTool": {
+        "message": "Lifandi myndavélarskönnun og QR kóða",
+        "description": ""
+    },
+    "createLinksAnalyticsTool": {
+        "message": "Búðu til stutttengla og greiningu",
+        "description": ""
+    },
+    "faq1Question": {
+        "message": "1. Hver er þessi framlenging?",
+        "description": ""
+    },
+    "faq1Answer": {
+        "message": "Það er til að greina QR kóða sjálfkrafa á vefsíðunum og finna síðan tengla og gagnasnið þeirra. Frekari upplýsingar á <a>https://en.wikipedia.org/wiki/QR_code</a>.",
+        "description": ""
+    },
+    "faq2Question": {
+        "message": "2. Hversu marga QR kóða getur það greint?",
+        "description": ""
+    },
+    "faq2Answer": {
+        "message": "Sjálfgefið eitt, en þú getur stillt það fyrir meira (í hlutanum hér að ofan).",
+        "description": ""
+    },
+    "faq3Question": {
+        "message": "3. Hvað er síða og hvers vegna það er notað hér?",
+        "description": ""
+    },
+    "faq3Answer": {
+        "message": "Það veitir kjarnaþjónustu til að greina QR kóða og einnig til að búa til / stjórna nýjum QR kóða, með greiningarþjónustu.",
+        "description": ""
+    },
+    "faq4Question": {
+        "message": "4. Eru þessir nýju QR kóðar frá qrcd.org öruggir?",
+        "description": ""
+    },
+    "faq4Answer": {
+        "message": "Algjörlega! <a></a> er hýst á öruggum skýjapalli og hannað til að vernda alla þjónustu með 100% ábyrgð.",
+        "description": ""
+    },
+    "faq5Question": {
+        "message": "5. Getum við breytt QR kóða eða búið til háþróaðar QR kóða tegundir?",
+        "description": ""
+    },
+    "faq5Answer": {
+        "message": "Já! Við erum að skipuleggja næstu útgáfu mjög fljótlega með 20+ frábærum nýjum eiginleikum.",
+        "description": ""
+    },
+    "faq6Question": {
+        "message": "6. Hvernig get ég notað þessa QR kóða eða kosti þess?",
+        "description": ""
+    },
+    "faq6Answer": {
+        "message": "Það getur notað til ýmissa markaðs- og kynningaraðgerða til að láta notendur skjóta QR kóða og fá markefnið. Frekari upplýsingar á <a></a>.",
+        "description": ""
+    },
+    "faq7Question": {
+        "message": "7. Hvað með friðhelgi einkalífsins?",
+        "description": ""
+    },
+    "faq7Answer": {
+        "message": "Við spyrjum ekki, lesum, geymum eða vinnum hvers kyns persónulegar upplýsingar. Frekari upplýsingar á <a></a>",
+        "description": ""
+    },
+    "labelSaved": {
+        "message": "Vistað",
+        "description": ""
+    },
+    "settingQrFormatLabel": {
+        "message": "QR snið",
+        "description": ""
+    },
+    "settingQrColorLabel": {
+        "message": "Litur",
+        "description": ""
+    },
+    "settingQrErrCorrectionLabel": {
+        "message": "Villuleiðrétting",
+        "description": ""
+    },
+    "labelLow": {
+        "message": "Lágt",
+        "description": ""
+    },
+    "labelMedium": {
+        "message": "Miðlungs",
+        "description": ""
+    },
+    "labelHigh": {
+        "message": "Hár",
+        "description": ""
+    },
+    "settingQrFrameLabel": {
+        "message": "QR rammi",
+        "description": ""
+    },
+    "settingQrStyleLabel": {
+        "message": "QR stíll",
+        "description": ""
+    },
+    "settingQrImageFormatLabel": {
+        "message": "Myndform",
+        "description": ""
+    },
+    "settingQrSizeLabel": {
+        "message": "Stærð",
+        "description": ""
+    },
+    "tipEnableOnlineHelpText": {
+        "message": "Prófaðu að virkja afkóðun á netinu í <a>valkostum</a>",
+        "description": ""
+    },
+    "qrQualityLowLabel": {
+        "message": "Lágt - 5% villa",
+        "description": ""
+    },
+    "qrQualityMediumLabel": {
+        "message": "Miðlungs - 15% villa",
+        "description": ""
+    },
+    "qrQualityQuartileLabel": {
+        "message": "Fjórðungur - 25% villa",
+        "description": ""
+    },
+    "qrQualityHighLabel": {
+        "message": "Hátt - 30% villa",
+        "description": ""
+    },
+    "settingQrImgFormatLabel": {
+        "message": "Myndform",
+        "description": ""
+    },
+    "settingsQrMarginLabel": {
+        "message": "Framlegð",
+        "description": ""
+    },
+    "settingQrBackgroundLabel": {
+        "message": "Bakgrunns litur",
+        "description": ""
+    },
+    "settingQrLogoLabel": {
+        "message": "Merki",
+        "description": ""
+    },
+    "labelPreview": {
+        "message": "Forskoðun",
+        "description": ""
+    },
+    "textCopied": {
+        "message": "Afritað á klippiborðið",
+        "description": ""
+    },
+    "textCreatingQr": {
+        "message": "Að búa til QR",
+        "description": ""
+    },
+    "labelRecognizeQrCode": {
+        "message": "Þekkja QR kóða",
+        "description": ""
+    },
+    "labelLocalImage": {
+        "message": "Þekkja staðbundna mynd",
+        "description": ""
+    },
+    "labelCancel": {
+        "message": "Hætta við",
+        "description": ""
+    },
+    "labelEnable": {
+        "message": "Virkja",
+        "description": ""
+    },
+    "labelCtxMenuEnable": {
+        "message": "Virkja samhengisvalmynd",
+        "description": ""
+    },
+    "labelUsingCtxMenu": {
+        "message": "Með samhengisvalmynd,",
+        "description": ""
+    },
+    "ctxMenuPermissionsTip": {
+        "message": "Það þarf nauðsynlegar heimildir til að virkja og keyra afkóðun skriftu",
+        "description": ""
+    },
+    "ctxMenuFeaturesList": {
+        "message": "<li>✓ Afkóða valmynd fyrir QR</li><li>✓ Búa til QR fyrir texta og tengla</li><li>✓ Afkóða staðbundna myndskrá</li>",
+        "description": ""
+    },
+    "ctxMenuEnabledText": {
+        "message": "Samhengisvalmynd virkjuð.",
+        "description": ""
+    },
+    "ctxMenuEnableFailedText": {
+        "message": "Ekki tókst að virkja samhengisvalmynd, vinsamlegast reyndu aftur",
+        "description": ""
+    },
+    "ctxMenuGrantPermissionsText": {
+        "message": "Vinsamlegast veittu nauðsynlegar heimildir til að virkja samhengisvalmyndina",
+        "description": ""
+    },
+    "ctxMenuEnableText": {
+        "message": "<a>Smelltu hér</a> til að virkja samhengisvalmynd til að auðvelda umskráningu á QR myndum",
+        "description": ""
+    },
+    "labelAppName": {
+        "message": "QR kóða lesandi",
+        "description": ""
+    },
+    "settingDynamicQrLabel": {
+        "message": "Dynamic QR",
+        "description": ""
+    },
+    "settingDynamicQrHelpText1": {
+        "message": "Ef slökkt er á því verða engar stuttar vefslóðir búnar til fyrir QR kóðann.<b> Það er mjög mælt með því að slökkva ekki á þessum valkosti af <a>öryggis- og frammistöðuástæðum</a>",
+        "description": ""
+    },
+    "settingDynamicQrHelpText2": {
+        "message": "Athugið: QR með enga stutta vefslóð verða ekki samstillt við skýið - Væntanlegt",
+        "description": ""
+    },
+    "offlineQrSyncDisalbedText": {
+        "message": "Þetta er QR án nettengingar, búðu til QR með stuttri slóð til að samstilla QR við skýið - Kemur bráðum!",
+        "description": ""
+    },
+    "createShortUrlQr": {
+        "message": "Búðu til ShortUrl QR",
+        "description": ""
+    },
+    "name": {
+        "message": "QR kóða lesandi",
+        "description": ""
+    },
+    "description": {
+        "message": "Króm viðbót til að lesa QR kóða af vefsíðu",
+        "description": ""
+    },
+    "labelShareit": {
+        "message": "Deildu því",
+        "description": ""
+    }
+}

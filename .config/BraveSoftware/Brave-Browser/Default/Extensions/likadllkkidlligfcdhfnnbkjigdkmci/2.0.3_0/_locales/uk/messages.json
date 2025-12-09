@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Живе сканування камерою та QR-код"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Створіть короткі посилання та аналітику"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Створіть ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Не вдалося ввімкнути контекстне меню, повторіть спробу"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Натисніть тут\u003C/a>, щоб увімкнути контекстне меню для легкого декодування QR-зображень"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Контекстне меню успішно ввімкнено."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Декодувати вибране зображення для QR\u003C/li>\u003Cli>✓ Згенерувати QR для тексту та посилань\u003C/li>\u003Cli>✓ Декодувати локальний файл зображення\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Надайте необхідні дозволи, щоб увімкнути контекстне меню"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Щоб увімкнути та запустити сценарій декодування, потрібні необхідні дозволи"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Завантажте QR-фото та розкодуйте"
+   },
+   "description": {
+      "description": "",
+      "message": "Розширення Chrome для читання QR-коду з веб-сторінки"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Він призначений для автоматичного виявлення QR-кодів на веб-сторінках, а потім пошуку посилань і форматів даних. Дізнайтеся більше на \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Що це за розширення?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "За замовчуванням один, але ви можете налаштувати його для інших (у розділі вище)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Скільки QR-кодів він може виявити?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Він надає основні послуги для виявлення QR-кодів, а також для створення/керування новими QR-кодами з аналітичними службами."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Що таке сайт і чому він тут використовується?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Абсолютно! \u003Ca>\u003C/a> розміщено на захищеній хмарній платформі та розроблено для захисту всіх послуг із 100% гарантією."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Чи безпечні ці нові QR-коди від qrcd.org?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Так! Ми плануємо дуже скоро запустити наступну версію з понад 20 чудовими новими функціями."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Чи можемо ми редагувати QR-коди або створювати розширені типи QR-кодів?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Його можна використовувати для різних маркетингових і рекламних заходів, щоб дозволити користувачам швидко сканувати QR-коди та отримувати цільовий вміст. Дізнайтесь більше на \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Як я можу використовувати ці QR-коди чи переваги цього?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Ми не запитуємо, не читаємо, не зберігаємо та не обробляємо жодних особистих даних. Дізнайтесь більше на \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. А як щодо конфіденційності?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Зчитувач QR-коду"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Скасувати"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Незабаром"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "контакт"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Копія"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Створити новий"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Створити QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Увімкнути контекстне меню"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Завантажити"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Динамічний"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "Електронна пошта"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Увімкнути"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Подія"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Формат"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Загальний"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Згенерувати QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Геолокація"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Високий"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "історія"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "додому"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Посилання"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Розпізнайте локальний образ"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Низький"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Середній"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "повідомлення"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Ім'я"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "інші"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Номер телефону"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Попередній перегляд"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Конфіденційність"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Типи QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR Reader"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Розпізнати QR-код"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "видалити"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Скинути"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "СМС"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "зберегти"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Збережено"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Виберіть"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Налаштування"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Поділіться цим"
+   },
+   "labelText": {
+      "description": "",
+      "message": "текст"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "до"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Інструменти"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Тип"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Майбутні функції"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Використовуючи контекстне меню,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wi-Fi"
+   },
+   "name": {
+      "description": "",
+      "message": "Зчитувач QR-коду"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Це офлайновий QR, створіть QR із короткою URL-адресою, щоб синхронізувати QR із хмарою – незабаром!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Висока - 30% помилки"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Низька - 5% помилка"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Середня - 15% помилка"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Квартиль - 25% помилка"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Автоматичне збереження відсканованого QR в історію"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Автоматичне створення коротких посилань за допомогою QR-коду"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Робіть більше за допомогою динамічних QR"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Незабаром! Динамічний QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Якщо вимкнено, для QR-коду не створюватимуться короткі URL-адреси.\u003Cb> Настійно не рекомендується вимикати цю опцію з \u003Ca>міркувань безпеки та продуктивності\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Примітка. QR-записи без короткої URL-адреси не синхронізуватимуться з хмарою. Незабаром"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Динамічний QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Динамічні параметри QR"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Увімкнути спеціальні посилання"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Увімкніть динамічну QR-аналітику, як-от кількість сканувань, місцезнаходження тощо"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Увімкнути термін придатності"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Увімкнути багаторазове декодування QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Якщо ввімкнено, зроблене зображення вікна буде автоматично завантажено на сервер для декодування кількох QR-кодів."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Увімкнути декодування onine"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Якщо в режимі офлайн не знайдено QR-кодів, зроблене зображення вікна буде завантажено на сервер для декодування."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Увімкнути захист паролем"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Максимальна кількість елементів, які потрібно зберегти в історії"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Ліміт історії"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Більше типів QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Колір фону"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Колір"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Виправлення помилок"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "Формат QR"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR рамка"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Формат зображення"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Формат зображення"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "логотип"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Розмір"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Стиль QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Максимальна кількість QR для відображення – до 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Макс. QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Якщо ввімкнено за замовчуванням, параметр показує проаналізований вміст для відомих типів (ПОСИЛАННЯ, SMS, електронна пошта, номер телефону, GIO підтримуються), інакше необроблений текст."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Показати аналізований вміст для відомих типів"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Отримайте більше можливостей, увійшовши"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Історія синхронізації"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Маржа"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Якщо вас цікавить певний тип QR, зверніться до \u003Ca>служби підтримки\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Незабаром! Переглянути статистику"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Натисніть новий QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Успішно скопійовано в буфер обміну"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Створено QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Створення QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Не вдалося виконати операцію, повторіть спробу"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Якщо вас цікавить розбір певного типу QR, зверніться до \u003Ca>служби підтримки\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Новий QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Примітка. Створіть власний QR-код із аналітикою (незабаром)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR не знайдено."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Триває онлайн-декодування, зачекайте.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Відкрити посилання"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "вимагається"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Відсканований QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Коротке посилання"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Показати розбір"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Невідомий"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Ліміт історії змін у \u003Ca>параметрах\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Ліміт історії змін у \u003Ca>параметрах\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Створено QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Спробуйте ввімкнути онлайн-декодування в \u003Ca>параметрах\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Спробуйте ввімкнути онлайн-декодування в \u003Ca>параметрах\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Відсканований QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Облікові записи користувачів\u003C/li>\u003Cli>Аналітика (10+) і звіти\u003C/li>\u003Cli>Користувацькі короткі посилання та QR-коди\u003C/li>\u003Cli>QR-код, 8+ нових типів\u003C/li>\u003C li>Безпека\u003C/li>\u003Cli>10+ додаткових функцій\u003C/li>"
+   }
+}

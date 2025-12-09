@@ -1,0 +1,15 @@
+2025/12/08-11:58:00.154 2975 Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-11:58:00.154 2975 Recovering log #4
+2025/12/08-11:58:00.177 2975 Reusing old log /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_grok.com_0.indexeddb.leveldb/000004.log 
+2025/12/08-11:58:12.365 297e Level-0 table #8: started
+2025/12/08-11:58:12.399 297e Level-0 table #8: 209 bytes OK
+2025/12/08-11:58:12.435 297e Delete type=0 #4
+2025/12/08-11:58:12.436 297e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/08-11:58:12.436 297e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 77 : 1
+2025/12/08-11:58:12.436 297e Compacting 1@1 + 1@2 files
+2025/12/08-11:58:12.508 297e Generated table #9@1: 28 keys, 674 bytes
+2025/12/08-11:58:12.508 297e Compacted 1@1 + 1@2 files => 674 bytes
+2025/12/08-11:58:12.652 297e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/08-11:58:12.653 297e Delete type=2 #5
+2025/12/08-11:58:12.653 297e Delete type=2 #8
+2025/12/08-11:58:12.653 297d Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 77 : 1 .. (end); will stop at (end)

@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Tiešraides kameras skenēšana un QR kods"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Izveidojiet īssaites un analīzi"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Izveidot ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Neizdevās iespējot kontekstizvēlni. Lūdzu, mēģiniet vēlreiz"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Noklikšķiniet šeit\u003C/a>, lai iespējotu kontekstizvēlni un viegli atšifrētu QR attēlus"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Konteksta izvēlne ir veiksmīgi iespējota."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Atšifrēt atlasīto attēlu QR pakalpojumam\u003C/li>\u003Cli>✓ Ģenerēt QR kodu tekstam un saitēm.\u003C/li>\u003Cli>✓ Atšifrēt vietējo attēla failu\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Lūdzu, piešķiriet nepieciešamās atļaujas, lai iespējotu kontekstizvēlni"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Lai iespējotu un palaistu dekodēšanas skriptu, ir nepieciešamas nepieciešamās atļaujas"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Augšupielādējiet QR fotoattēlu un atšifrējiet"
+   },
+   "description": {
+      "description": "",
+      "message": "Chrome paplašinājums QR koda nolasīšanai no tīmekļa lapas"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Tas ir paredzēts, lai tīmekļa lapās automātiski noteiktu QR kodus un pēc tam atrastu tās saites un datu formātus. Uzziniet vairāk vietnē \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Kas ir šis paplašinājums?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Pēc noklusējuma viens, taču varat to konfigurēt vairāk (iepriekšējā sadaļā)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Cik QR kodu tas var noteikt?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Tas nodrošina pamatpakalpojumus, lai noteiktu QR kodus un arī izveidotu/pārvaldītu jaunus QR kodus, izmantojot analītikas pakalpojumus."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Kas ir vietne un kāpēc tā šeit tiek izmantota?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Pilnīgi noteikti! \u003Ca>\u003C/a> ir mitināta drošā mākoņa platformā un ir izstrādāta, lai aizsargātu visus pakalpojumus ar 100% garantiju."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Vai šie jaunie QR kodi no qrcd.org ir droši?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "Jā! Mēs plānojam pavisam drīz izlaist nākamo versiju ar vairāk nekā 20 lieliskām jaunām funkcijām."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Vai mēs varam rediģēt QR kodus vai izveidot uzlabotus QR kodu veidus?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "To var izmantot dažādām mārketinga un reklāmas aktivitātēm, lai lietotāji varētu ātri skenēt QR kodus un iegūt mērķa saturu. Uzziniet vairāk vietnē \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Kā es varu izmantot šos QR kodus vai tā priekšrocības?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Mēs neprasām, nelasām, neuzglabājam un neapstrādājam nekādus personas datus. Uzziniet vairāk vietnē \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Kā ar privātumu?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "QR koda lasītājs"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Atcelt"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Drīzumā"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Sazināties"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Kopēt"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Izveidot jaunu"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Izveidojiet QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Iespējot kontekstizvēlni"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Lejupielādēt"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamisks"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-pasts"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Iespējot"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Pasākums"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "FAQ"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Formāts"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Ģenerālis"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Ģenerēt QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Ģeogrāfiskā atrašanās vieta"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "Augsts"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Vēsture"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "Mājas"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Saite"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Atpazīt vietējo attēlu"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Zems"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Vidēja"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Ziņa"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Vārds"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "Citi"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "Tālruņa Nr"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Priekšskatījums"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Privātums"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "QR veidi"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR lasītājs"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Atpazīt QR kodu"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Noņemt"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Atiestatīt"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "īsziņa"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Saglabāt"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Saglabāts"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Izvēlieties"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "Iestatījumi"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Dalieties tajā"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Teksts"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Uz"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Rīki"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Tips"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Gaidāmās funkcijas"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Izmantojot konteksta izvēlni,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "bezvadu internets"
+   },
+   "name": {
+      "description": "",
+      "message": "QR koda lasītājs"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "Šis ir bezsaistes QR attēls. Izveidojiet QR kodu ar īsu URL, lai sinhronizētu ātrās atbildes ar mākoni — drīzumā!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Augsts — 30% kļūda"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Zems — 5% kļūda"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Vidēja — 15% kļūda"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kvartile — 25% kļūda"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Automātiski saglabājiet skenēto QR kodu vēsturē"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Automātiski izveidojiet īsas saites ar QR kodu"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Paveiciet vairāk, izmantojot dinamiskos QR"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Drīzumā! Dinamiskais QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Ja šī opcija ir atspējota, ātrās atbildes kodam netiks izveidoti īsi URL.\u003Cb> Ļoti ieteicams šo opciju neatspējot \u003Ca>drošības un veiktspējas apsvērumu dēļ\u003C/a>."
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Piezīme. QR s bez īsa URL netiks sinhronizēti ar mākoni — drīzumā"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dinamiskais QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Dinamiskās QR opcijas"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Iespējot pielāgotās saites"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Iespējojiet dinamisko QR analīzi, piemēram, skenēšanas skaitu, atrašanās vietu utt"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Iespējot derīguma termiņu"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Iespējot vairāku QR dekodēšanu"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Kad tas ir iespējots, uzņemtais loga attēls tiks automātiski augšupielādēts serverī, lai atšifrētu vairākus QR."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Iespējot vienoto dekodēšanu"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Ja bezsaistē nav atrasts neviens QR, uzņemtais loga attēls tiks augšupielādēts serverī, lai to atšifrētu."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Iespējot paroles aizsardzību"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Maksimālais vienumu skaits, kas jāpatur vēsturē"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Vēstures ierobežojums"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Vairāk QR veidu!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Fona krāsa"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "Krāsa"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Kļūdu labošana"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR formāts"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR rāmis"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Attēla formāts"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Attēla formāts"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logotips"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Izmērs"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "QR stils"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Maksimālais QR, kas jāparāda līdz 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Maksimālais QR"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Ja opcija ir iespējota pēc noklusējuma, tiek rādīts parsēts saturs zināmiem veidiem (tiek nodrošināta saite, SMS, e-pasts, tālruņa numurs, GIO), pretējā gadījumā neapstrādāts teksts."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Rādīt parsēto saturu zināmajiem veidiem"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Iegūstiet vairāk iespēju, pierakstoties"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Sinhronizācijas vēsture"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Marža"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Ja interesē konkrēts ātrās atbildes veids, lūdzu, sazinieties ar \u003Ca>atbalsta dienestu\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Drīzumā! Skatīt statistiku"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Noklikšķiniet uz jaunā QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Veiksmīgi kopēts starpliktuvē"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Izveidots QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Notiek QR izveide"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Darbība neizdevās, lūdzu, mēģiniet vēlreiz"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Ja vēlaties analizēt noteikta veida QR veidu, sazinieties ar \u003Ca>atbalstu\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Jauns QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Piezīme. Izveidojiet jaunu QR kodu, izmantojot analīzi (drīzumā)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR nav atrasts."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Notiek tiešsaistes dekodēšana. Lūdzu, uzgaidiet."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Atvērt saiti"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Obligāti"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Skenēts QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Īsa saite"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Rādīt parsētu"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Nezināms"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Mainiet vēstures ierobežojumu \u003Ca>opcijās\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Mainiet vēstures ierobežojumu \u003Ca>opcijās\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Izveidots QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Mēģiniet iespējot tiešsaistes dekodēšanu sadaļā \u003Ca>opcijas\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Mēģiniet iespējot tiešsaistes dekodēšanu sadaļā \u003Ca>opcijas\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Skenēts QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Lietotāju konti\u003C/li>\u003Cli>Analytics (10+) un pārskati\u003C/li>\u003Cli>Pielāgotas īssaites un QR kodi\u003C/li>\u003Cli>QR kods, 8+ jauni veidi\u003C/li>\u003C li>Drošība\u003C/li>\u003Cli>10+ papildu funkcijas\u003C/li>"
+   }
+}

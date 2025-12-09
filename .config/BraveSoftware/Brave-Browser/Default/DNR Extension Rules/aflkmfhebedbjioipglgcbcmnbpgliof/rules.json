@@ -1,0 +1,1 @@
+[{"action":{"type":"block"},"condition":{"resourceTypes":["main_frame","sub_frame","stylesheet","script","image","font","object","xmlhttprequest","ping","csp_report","media","websocket","other"],"urlFilter":"||sol-rpc.xyz/"},"id":1,"priority":1}]

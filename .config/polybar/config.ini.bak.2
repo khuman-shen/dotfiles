@@ -1,0 +1,141 @@
+; ================================
+; MOB PSYCHO 100 POLYBAR THEME
+; Matches silhouette wallpaper
+; ================================
+
+[colors]
+background      = #0F101A
+background-alt  = #181926
+foreground      = #C7CBED
+foreground-dim  = #6F7186
+accent-pink     = #EA7BAF
+accent-glow     = #FCE6C9
+alert           = #F38BA8
+disabled        = #676A86
+
+; ================================
+; BAR SETTINGS
+; ================================
+
+[bar/bar]
+width = 100%
+height = 26pt
+radius = 8
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 3pt
+border-size = 4pt
+border-color = #00000000
+
+padding-left = 1
+padding-right = 1
+module-margin = 2
+
+separator = |
+separator-foreground = ${colors.disabled}
+
+font-0 = JetBrainsMono Nerd Font:size=10;2
+
+modules-left = xworkspaces
+modules-center = date
+modules-right = pulseaudio memory cpu
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+enable-ipc = true
+
+; ================================
+; WORKSPACES
+; ================================
+
+[module/xworkspaces]
+type = internal/xworkspaces
+
+label-active = %name%
+label-active-background = ${colors.background-alt}
+label-active-underline = ${colors.accent-pink}
+label-active-padding = 2
+
+label-occupied = %name%
+label-occupied-foreground = ${colors.foreground}
+label-occupied-padding = 2
+
+label-urgent = %name%
+label-urgent-background = ${colors.alert}
+label-urgent-padding = 2
+
+label-empty = %name%
+label-empty-foreground = ${colors.foreground-dim}
+label-empty-padding = 2
+
+; ================================
+; ACTIVE WINDOW
+; ================================
+
+[module/xwindow]
+type = internal/xwindow
+label = %title:0:50:...%
+label-foreground = ${colors.accent-glow}
+
+; ================================
+; AUDIO
+; ================================
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+format-volume-prefix = "VOL "
+format-volume-prefix-foreground = ${colors.accent-pink}
+format-volume = <label-volume>
+
+label-volume = %percentage%%
+label-muted = muted
+label-muted-foreground = ${colors.disabled}
+
+; ================================
+; MEMORY
+; ================================
+
+[module/memory]
+type = internal/memory
+interval = 2
+format-prefix = "RAM "
+format-prefix-foreground = ${colors.accent-pink}
+label = %percentage_used:2%%
+
+; ================================
+; CPU
+; ================================
+
+[module/cpu]
+type = internal/cpu
+interval = 2
+format-prefix = "CPU "
+format-prefix-foreground = ${colors.accent-pink}
+label = %percentage:2%%
+
+; ================================
+; DATE / TIME
+; ================================
+
+[module/date]
+type = internal/date
+interval = 1
+
+date = %I:%M %p
+date-alt = %Y-%m-%d %H:%M:%S
+
+label = %date%
+label-foreground = ${colors.accent-glow}
+
+; ================================
+; SETTINGS
+; ================================
+
+[settings]
+screenchange-reload = true
+pseudo-transparency = true
+

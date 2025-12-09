@@ -1,0 +1,574 @@
+{
+   "cameraDecodeTool": {
+      "description": "",
+      "message": "Skeniranje s kamero v živo in koda QR"
+   },
+   "createLinksAnalyticsTool": {
+      "description": "",
+      "message": "Ustvarite kratke povezave in analitiko"
+   },
+   "createShortUrlQr": {
+      "description": "",
+      "message": "Ustvarite ShortUrl QR"
+   },
+   "ctxMenuEnableFailedText": {
+      "description": "",
+      "message": "Kontekstnega menija ni bilo mogoče omogočiti, poskusite znova"
+   },
+   "ctxMenuEnableText": {
+      "description": "",
+      "message": "\u003Ca>Kliknite tukaj\u003C/a>, da omogočite kontekstni meni za enostavno dekodiranje slik QR"
+   },
+   "ctxMenuEnabledText": {
+      "description": "",
+      "message": "Kontekstni meni je uspešno omogočen."
+   },
+   "ctxMenuFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>✓ Dekodiraj izbrano sliko za QR\u003C/li>\u003Cli>✓ Ustvari QR za besedilo in povezave\u003C/li>\u003Cli>✓ Dekodiraj lokalno slikovno datoteko\u003C/li>"
+   },
+   "ctxMenuGrantPermissionsText": {
+      "description": "",
+      "message": "Prosimo, podelite potrebna dovoljenja, da omogočite kontekstni meni"
+   },
+   "ctxMenuPermissionsTip": {
+      "description": "",
+      "message": "Za omogočanje in zagon skripta za dekodiranje potrebuje potrebna dovoljenja"
+   },
+   "decodeToolLabel": {
+      "description": "",
+      "message": "Naložite fotografijo QR in dekodirajte"
+   },
+   "description": {
+      "description": "",
+      "message": "Chromova razširitev za branje kode QR s spletne strani"
+   },
+   "faq1Answer": {
+      "description": "",
+      "message": "Namenjen je samodejnemu zaznavanju kod QR na spletnih straneh in nato iskanju povezav in formatov podatkov. Več o tem na \u003Ca>https://en.wikipedia.org/wiki/QR_code\u003C/a>."
+   },
+   "faq1Question": {
+      "description": "",
+      "message": "1. Kaj je ta razširitev?"
+   },
+   "faq2Answer": {
+      "description": "",
+      "message": "Privzeto enega, vendar ga lahko konfigurirate za več (v zgornjem razdelku)."
+   },
+   "faq2Question": {
+      "description": "",
+      "message": "2. Koliko QR kod lahko zazna?"
+   },
+   "faq3Answer": {
+      "description": "",
+      "message": "Zagotavlja osnovne storitve za odkrivanje kod QR in ustvarjanje/upravljanje novih kod QR z analitičnimi storitvami."
+   },
+   "faq3Question": {
+      "description": "",
+      "message": "3. Kaj je spletno mesto in zakaj je tukaj uporabljeno?"
+   },
+   "faq4Answer": {
+      "description": "",
+      "message": "Vsekakor! \u003Ca>\u003C/a> gostuje na varni platformi v oblaku in je zasnovan za zaščito vseh storitev s 100-odstotno garancijo."
+   },
+   "faq4Question": {
+      "description": "",
+      "message": "4. Ali so te nove kode QR s qrcd.org varne?"
+   },
+   "faq5Answer": {
+      "description": "",
+      "message": "ja! Zelo kmalu nameravamo lansirati naslednjo različico z več kot 20 odličnimi novimi funkcijami."
+   },
+   "faq5Question": {
+      "description": "",
+      "message": "5. Ali lahko urejamo kode QR ali ustvarjamo napredne vrste kod QR?"
+   },
+   "faq6Answer": {
+      "description": "",
+      "message": "Uporablja se lahko za različne marketinške in promocijske dejavnosti, da uporabnikom omogoči hitro skeniranje QR kod in pridobitev ciljne vsebine. Več o tem na \u003Ca>\u003C/a>."
+   },
+   "faq6Question": {
+      "description": "",
+      "message": "6. Kako lahko uporabim te kode QR ali prednosti tega?"
+   },
+   "faq7Answer": {
+      "description": "",
+      "message": "Ne sprašujemo, beremo, shranjujemo ali obdelujemo nobenih osebnih podatkov. Več o tem na \u003Ca>\u003C/a>"
+   },
+   "faq7Question": {
+      "description": "",
+      "message": "7. Kaj pa zasebnost?"
+   },
+   "labelAppName": {
+      "description": "",
+      "message": "Čitalnik kod QR"
+   },
+   "labelCancel": {
+      "description": "",
+      "message": "Prekliči"
+   },
+   "labelComingSoon": {
+      "description": "",
+      "message": "Prihaja kmalu"
+   },
+   "labelContact": {
+      "description": "",
+      "message": "Kontakt"
+   },
+   "labelCopy": {
+      "description": "",
+      "message": "Kopirati"
+   },
+   "labelCreateNew": {
+      "description": "",
+      "message": "Ustvari novo"
+   },
+   "labelCreateQr": {
+      "description": "",
+      "message": "Ustvari QR"
+   },
+   "labelCtxMenuEnable": {
+      "description": "",
+      "message": "Omogoči kontekstni meni"
+   },
+   "labelDownload": {
+      "description": "",
+      "message": "Prenesi"
+   },
+   "labelDynamic": {
+      "description": "",
+      "message": "Dinamično"
+   },
+   "labelEMail": {
+      "description": "",
+      "message": "E-naslov"
+   },
+   "labelEnable": {
+      "description": "",
+      "message": "Omogoči"
+   },
+   "labelEvent": {
+      "description": "",
+      "message": "Dogodek"
+   },
+   "labelFaq": {
+      "description": "",
+      "message": "pogosta vprašanja"
+   },
+   "labelFormat": {
+      "description": "",
+      "message": "Oblika"
+   },
+   "labelGeneral": {
+      "description": "",
+      "message": "Splošno"
+   },
+   "labelGenerateQr": {
+      "description": "",
+      "message": "Ustvari QR"
+   },
+   "labelGeo": {
+      "description": "",
+      "message": "Geografska lokacija"
+   },
+   "labelHigh": {
+      "description": "",
+      "message": "visoko"
+   },
+   "labelHistory": {
+      "description": "",
+      "message": "Zgodovina"
+   },
+   "labelHome": {
+      "description": "",
+      "message": "domov"
+   },
+   "labelLink": {
+      "description": "",
+      "message": "Povezava"
+   },
+   "labelLocalImage": {
+      "description": "",
+      "message": "Prepoznajte lokalno sliko"
+   },
+   "labelLow": {
+      "description": "",
+      "message": "Nizka"
+   },
+   "labelMedium": {
+      "description": "",
+      "message": "Srednje"
+   },
+   "labelMessage": {
+      "description": "",
+      "message": "Sporočilo"
+   },
+   "labelName": {
+      "description": "",
+      "message": "Ime"
+   },
+   "labelOthers": {
+      "description": "",
+      "message": "drugi"
+   },
+   "labelPhoneNo": {
+      "description": "",
+      "message": "telefonska št"
+   },
+   "labelPreview": {
+      "description": "",
+      "message": "Predogled"
+   },
+   "labelPrivacy": {
+      "description": "",
+      "message": "Zasebnost"
+   },
+   "labelQRTypes": {
+      "description": "",
+      "message": "Vrste QR"
+   },
+   "labelQrCodeReader": {
+      "description": "",
+      "message": "QR bralnik"
+   },
+   "labelRecognizeQrCode": {
+      "description": "",
+      "message": "Prepoznajte kodo QR"
+   },
+   "labelRemove": {
+      "description": "",
+      "message": "Odstrani"
+   },
+   "labelReset": {
+      "description": "",
+      "message": "Ponastaviti"
+   },
+   "labelSMS": {
+      "description": "",
+      "message": "SMS"
+   },
+   "labelSave": {
+      "description": "",
+      "message": "Shrani"
+   },
+   "labelSaved": {
+      "description": "",
+      "message": "Shranjeno"
+   },
+   "labelSelect": {
+      "description": "",
+      "message": "Izberite"
+   },
+   "labelSettings": {
+      "description": "",
+      "message": "nastavitve"
+   },
+   "labelShareit": {
+      "description": "",
+      "message": "Delite to"
+   },
+   "labelText": {
+      "description": "",
+      "message": "Besedilo"
+   },
+   "labelTo": {
+      "description": "",
+      "message": "Za"
+   },
+   "labelTools": {
+      "description": "",
+      "message": "Orodja"
+   },
+   "labelType": {
+      "description": "",
+      "message": "Vrsta"
+   },
+   "labelURL": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUpcomingFeatures": {
+      "description": "",
+      "message": "Prihajajoče funkcije"
+   },
+   "labelUrl": {
+      "description": "",
+      "message": "URL"
+   },
+   "labelUsingCtxMenu": {
+      "description": "",
+      "message": "Z uporabo kontekstnega menija,"
+   },
+   "labelWifi": {
+      "description": "",
+      "message": "Wifi"
+   },
+   "name": {
+      "description": "",
+      "message": "Čitalnik kod QR"
+   },
+   "offlineQrSyncDisalbedText": {
+      "description": "",
+      "message": "To je QR brez povezave, ustvarite QR s kratkim URL-jem za sinhronizacijo QR-jev z oblakom – kmalu!"
+   },
+   "qrQualityHighLabel": {
+      "description": "",
+      "message": "Visoka - 30 % napaka"
+   },
+   "qrQualityLowLabel": {
+      "description": "",
+      "message": "Nizka - 5 % napaka"
+   },
+   "qrQualityMediumLabel": {
+      "description": "",
+      "message": "Srednje - 15 % napaka"
+   },
+   "qrQualityQuartileLabel": {
+      "description": "",
+      "message": "Kvartil - 25 % napaka"
+   },
+   "settingAutoSaveScannedLabel": {
+      "description": "",
+      "message": "Samodejno shrani skenirani QR v zgodovino"
+   },
+   "settingAutoShortLinkLabel": {
+      "description": "",
+      "message": "Samodejno ustvarjanje kratkih povezav s kodo QR"
+   },
+   "settingDoMoreDynamicQrText": {
+      "description": "",
+      "message": "Naredite več z dinamičnimi QR-ji"
+   },
+   "settingDynamicQrComingSoon": {
+      "description": "",
+      "message": "Prihaja kmalu! Dinamični QR"
+   },
+   "settingDynamicQrHelpText1": {
+      "description": "",
+      "message": "Če je onemogočena, za kodo QR ne bodo ustvarjeni kratki URL-ji.\u003Cb> Zelo priporočljivo je, da te možnosti ne onemogočite zaradi \u003Ca>varnostnih razlogov in učinkovitosti\u003C/a>"
+   },
+   "settingDynamicQrHelpText2": {
+      "description": "",
+      "message": "Opomba: QR-ji brez kratkega URL-ja ne bodo sinhronizirani z oblakom – kmalu na voljo"
+   },
+   "settingDynamicQrLabel": {
+      "description": "",
+      "message": "Dinamični QR"
+   },
+   "settingDynamicQrOptionsLabel": {
+      "description": "",
+      "message": "Dinamične možnosti QR"
+   },
+   "settingEnableCustomLinksLabel": {
+      "description": "",
+      "message": "Omogoči povezave po meri"
+   },
+   "settingEnableDynamicQrStats": {
+      "description": "",
+      "message": "Omogočite dinamično analizo QR, kot je število skeniranih posnetkov, lokacija itd"
+   },
+   "settingEnableExpiryLabel": {
+      "description": "",
+      "message": "Omogoči datum poteka"
+   },
+   "settingEnableMultipleQr": {
+      "description": "",
+      "message": "Omogoči večkratno dekodiranje QR"
+   },
+   "settingEnableMultipleQrHelpText": {
+      "description": "",
+      "message": "Ko je omogočeno, bo zajeta slika okna samodejno naložena na strežnik za dekodiranje več QR-jev."
+   },
+   "settingEnableOnlineDecoding": {
+      "description": "",
+      "message": "Omogoči dekodiranje online"
+   },
+   "settingEnableOnlineHelpText": {
+      "description": "",
+      "message": "Ko brez povezave ni najden noben QR, bo zajeta slika okna naložena na strežnik za dekodiranje."
+   },
+   "settingEnablePasswordLabel": {
+      "description": "",
+      "message": "Omogoči zaščito z geslom"
+   },
+   "settingHistoryLimitHelpText": {
+      "description": "",
+      "message": "Največje število predmetov, ki jih je treba ohraniti v zgodovini"
+   },
+   "settingHistoryLimitLabel": {
+      "description": "",
+      "message": "Omejitev zgodovine"
+   },
+   "settingMoreQrTypesLabel": {
+      "description": "",
+      "message": "Več vrst QR!"
+   },
+   "settingQrBackgroundLabel": {
+      "description": "",
+      "message": "Barva ozadja"
+   },
+   "settingQrColorLabel": {
+      "description": "",
+      "message": "barva"
+   },
+   "settingQrErrCorrectionLabel": {
+      "description": "",
+      "message": "Popravek napak"
+   },
+   "settingQrFormatLabel": {
+      "description": "",
+      "message": "QR format"
+   },
+   "settingQrFrameLabel": {
+      "description": "",
+      "message": "QR okvir"
+   },
+   "settingQrImageFormatLabel": {
+      "description": "",
+      "message": "Format slike"
+   },
+   "settingQrImgFormatLabel": {
+      "description": "",
+      "message": "Format slike"
+   },
+   "settingQrLogoLabel": {
+      "description": "",
+      "message": "Logotip"
+   },
+   "settingQrSizeLabel": {
+      "description": "",
+      "message": "Velikost"
+   },
+   "settingQrStyleLabel": {
+      "description": "",
+      "message": "Slog QR"
+   },
+   "settingShowMaxQrHelpText": {
+      "description": "",
+      "message": "Največ QR-jev za prikaz do 10"
+   },
+   "settingShowMaxQrLabel": {
+      "description": "",
+      "message": "Največ QR-jev"
+   },
+   "settingShowParsedContentHelpText": {
+      "description": "",
+      "message": "Če je privzeto omogočena možnost, prikaže razčlenjeno vsebino za znane vrste (POVEZAVA, SMS, E-pošta, telefonska številka, GIO so podprti), sicer neobdelano besedilo."
+   },
+   "settingShowParsedContentLabel": {
+      "description": "",
+      "message": "Prikaži razčlenjeno vsebino za znane vrste"
+   },
+   "settingSigninMoreText": {
+      "description": "",
+      "message": "Če se prijavite, pridobite več možnosti"
+   },
+   "settingSyncHistoryLabel": {
+      "description": "",
+      "message": "Zgodovina sinhronizacije"
+   },
+   "settingsQrMarginLabel": {
+      "description": "",
+      "message": "Marža"
+   },
+   "specificQrTypeHelpText": {
+      "description": "",
+      "message": "Če vas zanima določena vrsta QR, se obrnite na \u003Ca>podporo\u003C/a>"
+   },
+   "statsText": {
+      "description": "",
+      "message": "Prihaja kmalu! Ogled statistike"
+   },
+   "textClickNewQr": {
+      "description": "",
+      "message": "Kliknite nov QR"
+   },
+   "textCopied": {
+      "description": "",
+      "message": "Uspešno kopirano v odložišče"
+   },
+   "textCreatedQr": {
+      "description": "",
+      "message": "Ustvarjen QR"
+   },
+   "textCreatingQr": {
+      "description": "",
+      "message": "Ustvarjanje QR"
+   },
+   "textFailed": {
+      "description": "",
+      "message": "Operacija ni uspela, poskusite znova"
+   },
+   "textInterestedTip": {
+      "description": "",
+      "message": "Če vas zanima razčlenjevanje določene vrste QR, se obrnite na \u003Ca>podporo\u003C/a>"
+   },
+   "textNewQr": {
+      "description": "",
+      "message": "Nov QR"
+   },
+   "textNewQrTip": {
+      "description": "",
+      "message": "Opomba: ustvarite svojo novo kodo QR z analitiko (kmalu na voljo)"
+   },
+   "textNoQrFound": {
+      "description": "",
+      "message": "QR ni bil najden."
+   },
+   "textOnlineDecodingInProgress": {
+      "description": "",
+      "message": "Spletno dekodiranje je v teku, počakajte.."
+   },
+   "textOpenLink": {
+      "description": "",
+      "message": "Odpri povezavo"
+   },
+   "textRequired": {
+      "description": "",
+      "message": "Obvezno"
+   },
+   "textScannedQR": {
+      "description": "",
+      "message": "Skeniran QR"
+   },
+   "textShortLink": {
+      "description": "",
+      "message": "Kratka povezava"
+   },
+   "textShowParsed": {
+      "description": "",
+      "message": "Prikaži razčlenjeno"
+   },
+   "textUnknown": {
+      "description": "",
+      "message": "Neznano"
+   },
+   "tipChangeHistory": {
+      "description": "",
+      "message": "Spremenite omejitev zgodovine v \u003Ca>možnostih\u003C/a>"
+   },
+   "tipChangeHistoryLimit": {
+      "description": "",
+      "message": "Spremenite omejitev zgodovine v \u003Ca>možnostih\u003C/a>"
+   },
+   "tipCreatedQr": {
+      "description": "",
+      "message": "Ustvarjen QR"
+   },
+   "tipEnableOnlineDecoding": {
+      "description": "",
+      "message": "Poskusite omogočiti spletno dekodiranje v \u003Ca>možnostih\u003C/a>"
+   },
+   "tipEnableOnlineHelpText": {
+      "description": "",
+      "message": "Poskusite omogočiti spletno dekodiranje v \u003Ca>možnostih\u003C/a>"
+   },
+   "tipScannedQR": {
+      "description": "",
+      "message": "Skeniran QR"
+   },
+   "upcomingFeaturesList": {
+      "description": "",
+      "message": "\u003Cli>Uporabniški računi\u003C/li>\u003Cli>Analitika (10+) in poročila\u003C/li>\u003Cli>Kratke povezave po meri in kode QR\u003C/li>\u003Cli>Koda QR, 8+ novih vrst\u003C/li>\u003C li>Varnost\u003C/li>\u003Cli>10+ naprednih funkcij\u003C/li>"
+   }
+}

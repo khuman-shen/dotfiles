@@ -1,23 +1,172 @@
-/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
-/* Ja KooLit - Default 
+/*
+ *   Catppuccin Mocha — Rofi Theme (Uniform List Rows)
+ *   https://catppuccin.com
+ */
 
-* All main themes or configs are located in ~/.config/rofi/themes/
-* If you want to edit the config, that is where you should edit NOT here 
+* {
+    // Core colors
+    foreground:     #CDD6F4;
+    background:     #1E1E2E;
+    background-color: #1E1E2E;
 
-* To load a new theme, manually edit the file path below or choose desired theme via rofi theme selector (choose via app menu)
+    // Shades
+    crust:      #11111B;
+    mantle:     #181825;
+    base:       #1E1E2E;
+    surface0:   #313244;
+    surface1:   #45475A;
+    surface2:   #585B70;
 
-* Alternative way to Load (preferred) own cooked by Ja 
-* SUPER CTRL R - Choose style & SUPER CTRL SHIFT R 
+    // Text
+    text:       #CDD6F4;
+    subtext1:   #BAC2DE;
+    subtext0:   #A6ADC8;
 
-* TIPS 
-* If you have edited a config, rename it with a unique name. During update, the contents of 
-* ~/.config/rofi/themes/ will be replaced. */
+    // Accents
+    blue:       #89B4FA;
+    lavender:   #B4BEFE;
+    sapphire:   #74C7EC;
+    sky:        #89DCEB;
+    teal:       #94E2D5;
+    green:      #A6E3A1;
+    yellow:     #F9E2AF;
+    peach:      #FAB387;
+    maroon:     #EBA0AC;
+    red:        #F38BA8;
+    mauve:      #CBA6F7;
+    pink:       #F5C2E7;
+    flamingo:   #F2CDCD;
+    rosewater:  #F5E0DC;
 
-/* ---- Global Configuration Fonts ---- */
-@import "~/.config/rofi/0-shared-fonts.rasi"
+    font: "Source Code Pro 10";
+}
 
-/* note: Main themes in ~/.config/rofi/themes */
-/* You can manually change here or you can use rofi theme selector SUPER SHIFT E */
+/* --- WINDOW --- */
+window {
+    location: center;
+    anchor:   center;
+    padding: 10px;
+    border:  0px;
+    border-radius: 10px;
+    color: @text;
+    background-color: @base;
+    spacing: 0;
+    children:  [mainbox];
+    orientation: horizontal;
+}
 
+/* MAIN LAYOUT */
+mainbox {
+    spacing: 0;
+    children: [ inputbar, message, listview ];
+}
 
-@theme "~/.config/rofi/themes/KooL_style-4.rasi"
+/* --- MESSAGE AREA --- */
+message {
+    border-color: @mauve;
+    border: 0px 2px 2px 2px;
+    padding: 5;
+    background-color: @surface0;
+    color: @text;
+}
+
+message {
+    font: "Source Code Pro 8";
+}
+
+/* --- INPUT BAR --- */
+inputbar {
+    color: @text;
+    padding: 11px;
+    background-color: @surface1;
+    border: 2px 2px 2px 2px;
+    border-radius: 15px 15px 0px 0px;
+    border-color: @mauve;
+    font: "Source Code Pro 18";
+}
+
+entry,prompt,case-indicator {
+    text-font: inherit;
+    text-color: inherit;
+}
+
+prompt {
+    margin: 0px 0.3em 0em 0em;
+    color: @lavender;
+}
+
+/* --- LIST VIEW --- */
+listview {
+    padding: 8px;
+    border-radius: 0px 0px 15px 15px;
+    border-color: @mauve;
+    border: 0px 2px 2px 2px;
+    background-color: @mantle;
+    dynamic: false;
+    lines: 10;
+}
+
+/* --- LIST ELEMENTS (UNIFORM COLOR) --- */
+element,
+element normal normal,
+element alternate normal,
+element normal active,
+element alternate active,
+element normal urgent,
+element alternate urgent {
+    background-color: @mantle;   /* <- uniform color */
+    color: @text;
+    padding: 3px;
+    vertical-align: 0.5;
+    border-radius: 4px;
+    font: inherit;
+}
+
+/* Selected item */
+element selected.normal {
+    background-color: @surface1;
+    color: @text;
+}
+
+element selected.active {
+    background-color: @blue;
+    color: @crust;
+}
+
+element selected.urgent {
+    background-color: @red;
+    color: @crust;
+}
+
+element-text {
+    background-color: inherit;
+    text-color: inherit;
+}
+
+/* --- SIDEBAR BUTTONS --- */
+button {
+    font: "FontAwesome 22";
+    padding: 6px;
+    border: 2px 0px 2px 2px;
+    border-radius: 4px 0px 0px 4px;
+    background-color: @surface0;
+    border-color: @mauve;
+    color: @text;
+    horizontal-align: 0.5;
+}
+
+button selected normal {
+    color: @crust;
+    background-color: @mauve;
+    border-color: @rosewater;
+}
+
+/* --- ERROR MESSAGE --- */
+error-message {
+    expand: true;
+    background-color: @red;
+    border-color: @maroon;
+    border: 2px;
+    padding: 1em;
+}
+

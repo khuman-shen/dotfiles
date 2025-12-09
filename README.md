@@ -11,8 +11,8 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=300 />
-    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=300 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic1.png" width=350 />
+    <img src="https://github.com/khuman-shen/dotfiles/blob/bspwm/screenshots/pic2.png" width=350 />
   </p>
 </div>
 

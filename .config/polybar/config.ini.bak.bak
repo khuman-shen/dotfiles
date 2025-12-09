@@ -2,23 +2,23 @@
 ;       POLYBAR
 ; ============================================
 [colors]
-background        = #000000
-background-alt    = #0D0D0D
-background-light  = #1A1A1A
+background      = #000000        ; black from wallpaper
+background-alt  = #0A0A0A
+background-light = #161616
 
-foreground        = #FFFFFF
-foreground-dim    = #C0C0C0
+foreground      = #FFFFFF        ; white (matches eyes/text)
+foreground-dim  = #B5B5B5
 
-primary           = #FFFFFF
-highlight         = #E0E0E0
-secondary         = #BEBEBE
+accent-pink     = #FF3B2E        ; neon red/orange circle color
+accent-glow     = #FFB08A        ; soft orange glow cracks/eyes
+accent-purple   = #F35A48        ; warm secondary highlight
 
-alert             = #FFFFFF
-disabled          = #5C5C5C
-
+alert           = #FF3B2E        ; alert in neon red
+disabled        = #5C5C5C
 ; ============================================
 ;  BAR SETTINGS (modern, rounded)
 ; ============================================
+
 [bar/bar]
 width = 100%
 height = 32
@@ -41,7 +41,7 @@ padding-right = 3
 module-margin = 4
 
 separator = ""
-separator-foreground = ${colors.primary}
+separator-foreground = ${colors.accent-pink}
 
 font-0 = JetBrainsMono Nerd Font:size=10;3
 
@@ -56,11 +56,12 @@ enable-ipc = true
 ; ============================================
 ;  WORKSPACES (modern pills)
 ; ============================================
+
 [module/xworkspaces]
 type = internal/xworkspaces
 
 label-active =  %name%
-label-active-background = ${colors.primary}
+label-active-background = ${colors.accent-pink}
 label-active-foreground = ${colors.background}
 label-active-padding = 3
 label-active-radius = 10
@@ -79,55 +80,60 @@ label-empty-foreground = ${colors.foreground-dim}
 label-empty-padding = 2
 
 ; ============================================
-;  WINDOW TITLE
+;  WINDOW TITLE (subtle, modern)
 ; ============================================
+
 [module/xwindow]
 type = internal/xwindow
 label = "$ %title:0:30:...%"
-label-foreground = ${colors.highlight}
+label-foreground = ${colors.accent-glow}
 
 ; ============================================
-;  AUDIO
+;  AUDIO (minimal neon)
 ; ============================================
+
 [module/pulseaudio]
 type = internal/pulseaudio
 
 format-volume = <label-volume>
 format-volume-prefix = "  "
-format-volume-prefix-foreground = ${colors.secondary}
+format-volume-prefix-foreground = ${colors.accent-purple}
 
 label-volume = %percentage%%
 
 label-muted = " muted"
-label-muted-foreground = ${colors.highlight}
+label-muted-foreground = ${colors.accent-glow}
 
 ; ============================================
-;  MEMORY
+;  MEMORY (modern prefix)
 ; ============================================
+
 [module/memory]
 type = internal/memory
 interval = 2
 
 format-prefix = "  "
-format-prefix-foreground = ${colors.secondary}
+format-prefix-foreground = ${colors.accent-purple}
 
 label = %percentage_used%%
 
 ; ============================================
 ;  CPU
 ; ============================================
+
 [module/cpu]
 type = internal/cpu
 interval = 2
 
 format-prefix = "  "
-format-prefix-foreground = ${colors.secondary}
+format-prefix-foreground = ${colors.accent-purple}
 
 label = %percentage%%
 
 ; ============================================
-;  DATE / TIME
+;  DATE / TIME (clean + glowing)
 ; ============================================
+
 [module/date]
 type = internal/date
 interval = 1
@@ -136,33 +142,39 @@ date = "  %I:%M %p"
 date-alt = "%Y-%m-%d  %H:%M:%S"
 
 label = %date%
-label-foreground = ${colors.highlight}
+label-foreground = ${colors.accent-glow}
 
 ; ============================================
 ;  SETTINGS
 ; ============================================
+
 [settings]
 screenchange-reload = true
 pseudo-transparency = true
 
+
 ; ============================================
 ;  BATTERY
-; ============================================
+;> ============================================
 [module/battery]
 type = internal/battery
 
 full-at = 99
 low-at = 5
 
+; ============= FORMATS (use only tags your version supports)
 format-charging = <animation-charging> <label-charging>
 format-discharging = <ramp-capacity> <label-discharging>
 format-full =  <label-full>
+;format-low = <label-low>  ; optional
 
+; ============= LABELS (put %percentage% here)
 label-charging = Charging %percentage%% 
 label-discharging = %percentage%% 
 label-full = Fully charged
 label-low = BATTERY LOW
 
+; ============= ICONS (ramps + animations)
 ramp-capacity-0 = 
 ramp-capacity-1 = 
 ramp-capacity-2 = 
@@ -183,7 +195,9 @@ animation-discharging-3 = 
 animation-discharging-4 = 
 animation-discharging-framerate = 500
 
+; ============= HARDWARE (these must be correct)
 battery = BAT1
 adapter = ACAD
+
 poll-interval = 5
 

@@ -1,6 +1,0 @@
-2025/12/05-13:56:53.795 2b2 Creating DB /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cret.netlify.app_0.indexeddb.leveldb since it was missing.
-2025/12/05-13:56:53.907 2b2 Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cret.netlify.app_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/05-13:57:20.056 2b2 Level-0 table #5: started
-2025/12/05-13:57:20.124 2b2 Level-0 table #5: 368437 bytes OK
-2025/12/05-13:57:20.171 2b2 Delete type=0 #3
-2025/12/05-13:57:20.172 2b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

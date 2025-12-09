@@ -1,6 +1,0 @@
-2025/12/02-06:21:28.130 281 Creating DB /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/WebStorage/44/IndexedDB/indexeddb.leveldb since it was missing.
-2025/12/02-06:21:28.245 281 Reusing MANIFEST /home/shinigami/.config/BraveSoftware/Brave-Browser/Default/WebStorage/44/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/12/02-06:32:47.765 283 Level-0 table #5: started
-2025/12/02-06:32:47.834 283 Level-0 table #5: 261035 bytes OK
-2025/12/02-06:32:47.890 283 Delete type=0 #3
-2025/12/02-06:32:47.891 283 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

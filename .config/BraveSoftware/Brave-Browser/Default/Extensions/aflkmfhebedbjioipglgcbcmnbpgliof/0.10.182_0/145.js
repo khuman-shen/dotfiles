@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_coral_xyz_app_extension=globalThis.webpackChunk_coral_xyz_app_extension||[]).push([[145],{706145:(a,e,i)=>{i.d(e,{CONFIG:()=>_.kh,CircleBridge:()=>l.iC});var _=i(715755),l=i(674588)}}]);
